@@ -16,7 +16,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 24 commits, 26 pull requests, 3 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 25 commits, 26 pull requests, 3 reviews" width="1200">
 </picture>
 
 **Recent activity**
@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Sep 16` **Pushed** [fix: stabilize CR calibration sampling and waveform handling \(\#401\)](https://github.com/msk-ono/qubex/commit/8480797d0d73266ed65736d1d2a813a234f19997) — msk\-ono/qubex · develop
 - `Sep 16` **Pushed** [fix: stabilize CR calibration sampling and waveform handling \(\#401\)](https://github.com/amachino/qubex/commit/8480797d0d73266ed65736d1d2a813a234f19997) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-09-17 02:08 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-09-17 02:25 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
