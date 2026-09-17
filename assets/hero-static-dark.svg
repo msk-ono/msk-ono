@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Masaki Ono — Software Engineer</title>
+  <desc id="desc">Mathematical contours with a gradient-descent trajectory converging to a minimum. Mathematics, GPU computing, and optimization.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#427c80" stroke-opacity=".09"/>
+    </pattern>
+    <clipPath id="plot"><rect x="505" y="0" width="695" height="460"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="460" fill="#0b1720"/>
+  <rect width="1200" height="460" fill="url(#grid)"/>
+  <g stroke="#427c80" stroke-opacity=".4" fill="none">
+    <path d="M504 0V460M0 459.5H1200"/>
+    <path d="M504 230H1200M852 0V460" stroke-opacity=".25"/>
+  </g>
+  <g font-family="'Courier New', Courier, monospace" fill="#89cec3">
+    <path d="M48 60H65" stroke="#89cec3"/>
+    <text x="78" y="65" font-size="18" letter-spacing="2">SOFTWARE ENGINEER</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="128" letter-spacing="-7" fill="#f1f4ef">
+    <text x="44" y="214">Masaki</text>
+    <text x="44" y="322">Ono</text>
+  </g>
+  <g font-family="'Courier New', Courier, monospace" font-size="15" fill="#8eaaa9" letter-spacing="1">
+    <text x="48" y="385">MATHEMATICS / GPU / OPTIMIZATION</text>
+    <text x="48" y="413">MSK-ONO</text>
+    <path d="M128 408H183" stroke="#427c80"/>
+  </g>
+  <g clip-path="url(#plot)">
+    <g transform="translate(852 230) rotate(-15)" fill="none">
+      <ellipse rx="40" ry="20" stroke="#89cec3" stroke-width="1.6" opacity="0.85"/>
+<ellipse rx="85" ry="42.5" stroke="#89cec3" stroke-width="1.6" opacity="0.74"/>
+<ellipse rx="135" ry="67.5" stroke="#89cec3" stroke-width="1.1" opacity="0.63"/>
+<ellipse rx="190" ry="95" stroke="#89cec3" stroke-width="1.1" opacity="0.52"/>
+<ellipse rx="250" ry="125" stroke="#89cec3" stroke-width="1.1" opacity="0.41"/>
+<ellipse rx="310" ry="155" stroke="#89cec3" stroke-width="1.1" opacity="0.30"/>
+      <path d="M-239.200,-88.400 L-138.736,60.112 L-80.467,-40.876 L-46.671,27.796 L-27.069,-18.901 L-15.700,12.853 L-9.106,-8.740 L-5.281,5.943 L-3.063,-4.041 L-1.777,2.748 L-1.030,-1.869 L-0.598,1.271 L-0.347,-0.864 L-0.201,0.588 L-0.117,-0.400 L-0.068,0.272 L-0.039,-0.185 L-0.023,0.126 L-0.013,-0.085 L-0.008,0.058 L-0.004,-0.040 L-0.003,0.027 L-0.001,-0.018 L-0.001,0.012 L-0.001,-0.008" stroke="#eab66b" stroke-width="2.8" opacity=".22"/>
+      <path class="trajectory" d="M-239.200,-88.400 L-138.736,60.112 L-80.467,-40.876 L-46.671,27.796 L-27.069,-18.901 L-15.700,12.853 L-9.106,-8.740 L-5.281,5.943 L-3.063,-4.041 L-1.777,2.748 L-1.030,-1.869 L-0.598,1.271 L-0.347,-0.864 L-0.201,0.588 L-0.117,-0.400 L-0.068,0.272 L-0.039,-0.185 L-0.023,0.126 L-0.013,-0.085 L-0.008,0.058 L-0.004,-0.040 L-0.003,0.027 L-0.001,-0.018 L-0.001,0.012 L-0.001,-0.008" pathLength="1" stroke="#eab66b" stroke-width="3.2" stroke-linejoin="round"/>
+      <circle cx="-239.200" cy="-88.400" r="4" fill="#eab66b"/>
+<circle cx="-138.736" cy="60.112" r="3.7" fill="#eab66b"/>
+<circle cx="-80.467" cy="-40.876" r="3.4" fill="#eab66b"/>
+<circle cx="-46.671" cy="27.796" r="3.1" fill="#eab66b"/>
+<circle cx="-27.069" cy="-18.901" r="2.8" fill="#eab66b"/>
+<circle cx="-15.700" cy="12.853" r="2.5" fill="#eab66b"/>
+<circle cx="-9.106" cy="-8.740" r="2.2" fill="#eab66b"/>
+      <circle r="4.5" fill="#f1f4ef"/>
+    </g>
+  </g>
+  <g font-family="'Courier New', Courier, monospace" font-size="15" fill="#8eaaa9">
+    <circle cx="969" cy="42" r="4" fill="#eab66b"/>
+    <text x="984" y="47">GRADIENT DESCENT</text>
+    <text x="1152" y="419" text-anchor="end">x[k+1] = x[k] − η ∇f(x[k])</text>
+  </g>
+</svg>

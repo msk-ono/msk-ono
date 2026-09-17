@@ -1,0 +1,55 @@
+{
+  "username": "msk-ono",
+  "updated_at": "2026-09-17T02:08:41Z",
+  "period": {
+    "from": "2026-08-18T02:08:41Z",
+    "to": "2026-09-17T02:08:41Z"
+  },
+  "counts": {
+    "commits": 24,
+    "prs": 26,
+    "reviews": 3
+  },
+  "activity": [
+    {
+      "date": "2026-09-16T13:08:14Z",
+      "kind": "Merged",
+      "repo": "oqtopus-team/qdash",
+      "title": "fix(workflow): prefer colon separators in wiring resources",
+      "detail": "#1478",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1478"
+    },
+    {
+      "date": "2026-09-16T12:42:24Z",
+      "kind": "Opened",
+      "repo": "oqtopus-team/qdash",
+      "title": "fix(workflow): prefer colon separators in wiring resources",
+      "detail": "#1478",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1478"
+    },
+    {
+      "date": "2026-09-16T12:34:38Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qdash",
+      "title": "chore: update dependencies for improved performance and security (#1477)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qdash/commit/72265b8514e8ea8c2dee648b12c7b74f1311757e"
+    },
+    {
+      "date": "2026-09-16T07:52:33Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "fix: stabilize CR calibration sampling and waveform handling (#401)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/8480797d0d73266ed65736d1d2a813a234f19997"
+    },
+    {
+      "date": "2026-09-16T07:51:55Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "fix: stabilize CR calibration sampling and waveform handling (#401)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/8480797d0d73266ed65736d1d2a813a234f19997"
+    }
+  ]
+}
