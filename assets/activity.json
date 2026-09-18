@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-09-17T21:27:57Z",
+  "updated_at": "2026-09-18T04:51:21Z",
   "period": {
-    "from": "2026-08-18T21:27:57Z",
-    "to": "2026-09-17T21:27:57Z"
+    "from": "2026-08-19T04:51:21Z",
+    "to": "2026-09-18T04:51:21Z"
   },
   "counts": {
-    "commits": 25,
+    "commits": 24,
     "prs": 26,
     "reviews": 3
   },
   "activity": [
+    {
+      "date": "2026-09-18T03:35:06Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "Feature/irb: Removed some tests (#403)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/11dc2e44a4876a9cb8adfb6aa5190255a7481f1d"
+    },
     {
       "date": "2026-09-16T13:08:14Z",
       "kind": "Merged",
@@ -42,14 +50,6 @@
       "title": "fix: stabilize CR calibration sampling and waveform handling (#401)",
       "detail": "develop",
       "url": "https://github.com/msk-ono/qubex/commit/8480797d0d73266ed65736d1d2a813a234f19997"
-    },
-    {
-      "date": "2026-09-16T07:51:55Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "fix: stabilize CR calibration sampling and waveform handling (#401)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/8480797d0d73266ed65736d1d2a813a234f19997"
     }
   ]
 }
