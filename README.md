@@ -22,12 +22,12 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 **Recent activity**
 
 - `Sep 25` **Pushed** [build\(deps\): bump soupsieve from 2\.8\.4 to 2\.9 \(\#402\)](https://github.com/msk-ono/qubex/commit/2bf4160feee692f9ec2ff81b41f9eb440d3ba659) — msk\-ono/qubex · develop
+- `Sep 25` **Pushed** [feat\(quel3\): restore unit state after monitor schedules](https://github.com/msk-ono/qubex/commit/c2ca37848fd6ab9a1c6c442f9772d94bf4ea9b4a) — msk\-ono/qubex · feature/quel3\-monitor\-mode
 - `Sep 21` **Pushed** [build\(deps\): bump soupsieve from 2\.8\.4 to 2\.9 \(\#402\)](https://github.com/amachino/qubex/commit/2bf4160feee692f9ec2ff81b41f9eb440d3ba659) — amachino/qubex · develop
 - `Sep 18` **Pushed** [fix: stabilize QuEL\-3 retries and frame shift carryover \(\#404\)](https://github.com/msk-ono/qubex/commit/66c67c387eeafa7eff6f673260d8d0886c6cf0fc) — msk\-ono/qubex · develop
 - `Sep 18` **Pushed** [fix: stabilize QuEL\-3 retries and frame shift carryover \(\#404\)](https://github.com/amachino/qubex/commit/66c67c387eeafa7eff6f673260d8d0886c6cf0fc) — amachino/qubex · develop
-- `Sep 18` **Merged** [fix: stabilize QuEL\-3 retries and frame shift carryover](https://github.com/amachino/qubex/pull/404) — amachino/qubex · \#404
 
-<sub>Public activity · Last 30 days · Updated 2026-09-25 11:57 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-09-25 17:17 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

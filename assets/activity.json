@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-09-25T11:57:37Z",
+  "updated_at": "2026-09-25T17:17:40Z",
   "period": {
-    "from": "2026-08-26T11:57:37Z",
-    "to": "2026-09-25T11:57:37Z"
+    "from": "2026-08-26T17:17:40Z",
+    "to": "2026-09-25T17:17:40Z"
   },
   "counts": {
     "commits": 24,
@@ -18,6 +18,14 @@
       "title": "build(deps): bump soupsieve from 2.8.4 to 2.9 (#402)",
       "detail": "develop",
       "url": "https://github.com/msk-ono/qubex/commit/2bf4160feee692f9ec2ff81b41f9eb440d3ba659"
+    },
+    {
+      "date": "2026-09-25T09:38:11Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "feat(quel3): restore unit state after monitor schedules",
+      "detail": "feature/quel3-monitor-mode",
+      "url": "https://github.com/msk-ono/qubex/commit/c2ca37848fd6ab9a1c6c442f9772d94bf4ea9b4a"
     },
     {
       "date": "2026-09-21T04:34:54Z",
@@ -42,14 +50,6 @@
       "title": "fix: stabilize QuEL-3 retries and frame shift carryover (#404)",
       "detail": "develop",
       "url": "https://github.com/amachino/qubex/commit/66c67c387eeafa7eff6f673260d8d0886c6cf0fc"
-    },
-    {
-      "date": "2026-09-18T13:06:49Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix: stabilize QuEL-3 retries and frame shift carryover",
-      "detail": "#404",
-      "url": "https://github.com/amachino/qubex/pull/404"
     }
   ]
 }
