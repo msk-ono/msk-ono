@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-09-25T05:04:28Z",
+  "updated_at": "2026-09-25T11:57:37Z",
   "period": {
-    "from": "2026-08-26T05:04:28Z",
-    "to": "2026-09-25T05:04:28Z"
+    "from": "2026-08-26T11:57:37Z",
+    "to": "2026-09-25T11:57:37Z"
   },
   "counts": {
     "commits": 24,
@@ -11,6 +11,14 @@
     "reviews": 2
   },
   "activity": [
+    {
+      "date": "2026-09-25T09:39:53Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "build(deps): bump soupsieve from 2.8.4 to 2.9 (#402)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/2bf4160feee692f9ec2ff81b41f9eb440d3ba659"
+    },
     {
       "date": "2026-09-21T04:34:54Z",
       "kind": "Pushed",
@@ -38,14 +46,6 @@
     {
       "date": "2026-09-18T13:06:49Z",
       "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix: stabilize QuEL-3 retries and frame shift carryover",
-      "detail": "#404",
-      "url": "https://github.com/amachino/qubex/pull/404"
-    },
-    {
-      "date": "2026-09-18T13:04:00Z",
-      "kind": "Opened",
       "repo": "amachino/qubex",
       "title": "fix: stabilize QuEL-3 retries and frame shift carryover",
       "detail": "#404",
