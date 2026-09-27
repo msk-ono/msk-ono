@@ -1,13 +1,13 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-09-26T21:15:56Z",
+  "updated_at": "2026-09-27T05:25:18Z",
   "period": {
-    "from": "2026-08-27T21:15:56Z",
-    "to": "2026-09-26T21:15:56Z"
+    "from": "2026-08-28T05:25:18Z",
+    "to": "2026-09-27T05:25:18Z"
   },
   "counts": {
-    "commits": 24,
-    "prs": 25,
+    "commits": 22,
+    "prs": 23,
     "reviews": 2
   },
   "activity": [

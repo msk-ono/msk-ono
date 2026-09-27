@@ -16,7 +16,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 24 commits, 25 pull requests, 2 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 22 commits, 23 pull requests, 2 reviews" width="1200">
 </picture>
 
 **Recent activity**
@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Sep 18` **Pushed** [fix: stabilize QuEL\-3 retries and frame shift carryover \(\#404\)](https://github.com/msk-ono/qubex/commit/66c67c387eeafa7eff6f673260d8d0886c6cf0fc) — msk\-ono/qubex · develop
 - `Sep 18` **Pushed** [fix: stabilize QuEL\-3 retries and frame shift carryover \(\#404\)](https://github.com/amachino/qubex/commit/66c67c387eeafa7eff6f673260d8d0886c6cf0fc) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-09-26 21:15 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-09-27 05:25 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
