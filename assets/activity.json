@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-09-28T05:32:24Z",
+  "updated_at": "2026-09-28T14:07:24Z",
   "period": {
-    "from": "2026-08-29T05:32:24Z",
-    "to": "2026-09-28T05:32:24Z"
+    "from": "2026-08-29T14:07:24Z",
+    "to": "2026-09-28T14:07:24Z"
   },
   "counts": {
-    "commits": 22,
-    "prs": 23,
+    "commits": 23,
+    "prs": 25,
     "reviews": 2
   },
   "activity": [
     {
-      "date": "2026-09-25T09:39:53Z",
+      "date": "2026-09-28T08:48:51Z",
       "kind": "Pushed",
       "repo": "msk-ono/qubex",
-      "title": "build(deps): bump soupsieve from 2.8.4 to 2.9 (#402)",
+      "title": "feat: clarify optimal and idle voltage APIs (#405)",
       "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/2bf4160feee692f9ec2ff81b41f9eb440d3ba659"
+      "url": "https://github.com/msk-ono/qubex/commit/64172d1a20065ed144176f4af4b3e64df1f93cfd"
     },
     {
-      "date": "2026-09-25T09:38:11Z",
+      "date": "2026-09-28T08:41:51Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): add monitor IQ capture and schedule execution",
+      "detail": "#407",
+      "url": "https://github.com/amachino/qubex/pull/407"
+    },
+    {
+      "date": "2026-09-28T08:35:56Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "feat: clarify optimal and idle voltage APIs (#405)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/64172d1a20065ed144176f4af4b3e64df1f93cfd"
+    },
+    {
+      "date": "2026-09-28T07:58:24Z",
       "kind": "Pushed",
       "repo": "msk-ono/qubex",
-      "title": "feat(quel3): restore unit state after monitor schedules",
+      "title": "fix(quel3): infer missing monitor schedule frequencies",
       "detail": "feature/quel3-monitor-mode",
-      "url": "https://github.com/msk-ono/qubex/commit/c2ca37848fd6ab9a1c6c442f9772d94bf4ea9b4a"
+      "url": "https://github.com/msk-ono/qubex/commit/aded40a7bb5189f6ec5201cbc58ebf24105e3b6a"
     },
     {
-      "date": "2026-09-21T04:34:54Z",
-      "kind": "Pushed",
+      "date": "2026-09-28T07:53:01Z",
+      "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "build(deps): bump soupsieve from 2.8.4 to 2.9 (#402)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/2bf4160feee692f9ec2ff81b41f9eb440d3ba659"
-    },
-    {
-      "date": "2026-09-18T13:20:34Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix: stabilize QuEL-3 retries and frame shift carryover (#404)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/66c67c387eeafa7eff6f673260d8d0886c6cf0fc"
-    },
-    {
-      "date": "2026-09-18T13:06:50Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "fix: stabilize QuEL-3 retries and frame shift carryover (#404)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/66c67c387eeafa7eff6f673260d8d0886c6cf0fc"
+      "title": "fix(quel3): attenuate event gains by configurable 1 dB default",
+      "detail": "#406",
+      "url": "https://github.com/amachino/qubex/pull/406"
     }
   ]
 }

@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 22 commits, 23 pull requests, 2 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 23 commits, 25 pull requests, 2 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
-- `Sep 25` **Pushed** [build\(deps\): bump soupsieve from 2\.8\.4 to 2\.9 \(\#402\)](https://github.com/msk-ono/qubex/commit/2bf4160feee692f9ec2ff81b41f9eb440d3ba659) — msk\-ono/qubex · develop
-- `Sep 25` **Pushed** [feat\(quel3\): restore unit state after monitor schedules](https://github.com/msk-ono/qubex/commit/c2ca37848fd6ab9a1c6c442f9772d94bf4ea9b4a) — msk\-ono/qubex · feature/quel3\-monitor\-mode
-- `Sep 21` **Pushed** [build\(deps\): bump soupsieve from 2\.8\.4 to 2\.9 \(\#402\)](https://github.com/amachino/qubex/commit/2bf4160feee692f9ec2ff81b41f9eb440d3ba659) — amachino/qubex · develop
-- `Sep 18` **Pushed** [fix: stabilize QuEL\-3 retries and frame shift carryover \(\#404\)](https://github.com/msk-ono/qubex/commit/66c67c387eeafa7eff6f673260d8d0886c6cf0fc) — msk\-ono/qubex · develop
-- `Sep 18` **Pushed** [fix: stabilize QuEL\-3 retries and frame shift carryover \(\#404\)](https://github.com/amachino/qubex/commit/66c67c387eeafa7eff6f673260d8d0886c6cf0fc) — amachino/qubex · develop
+- `Sep 28` **Pushed** [feat: clarify optimal and idle voltage APIs \(\#405\)](https://github.com/msk-ono/qubex/commit/64172d1a20065ed144176f4af4b3e64df1f93cfd) — msk\-ono/qubex · develop
+- `Sep 28` **Opened** [feat\(quel3\): add monitor IQ capture and schedule execution](https://github.com/amachino/qubex/pull/407) — amachino/qubex · \#407
+- `Sep 28` **Pushed** [feat: clarify optimal and idle voltage APIs \(\#405\)](https://github.com/amachino/qubex/commit/64172d1a20065ed144176f4af4b3e64df1f93cfd) — amachino/qubex · develop
+- `Sep 28` **Pushed** [fix\(quel3\): infer missing monitor schedule frequencies](https://github.com/msk-ono/qubex/commit/aded40a7bb5189f6ec5201cbc58ebf24105e3b6a) — msk\-ono/qubex · feature/quel3\-monitor\-mode
+- `Sep 28` **Merged** [fix\(quel3\): attenuate event gains by configurable 1 dB default](https://github.com/amachino/qubex/pull/406) — amachino/qubex · \#406
 
-<sub>Public activity · Last 30 days · Updated 2026-09-28 05:32 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-09-28 14:07 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
