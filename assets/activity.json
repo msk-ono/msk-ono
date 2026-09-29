@@ -1,16 +1,32 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-09-29T05:50:29Z",
+  "updated_at": "2026-09-29T13:02:17Z",
   "period": {
-    "from": "2026-08-30T05:50:29Z",
-    "to": "2026-09-29T05:50:29Z"
+    "from": "2026-08-30T13:02:17Z",
+    "to": "2026-09-29T13:02:17Z"
   },
   "counts": {
-    "commits": 26,
-    "prs": 28,
+    "commits": 27,
+    "prs": 29,
     "reviews": 2
   },
   "activity": [
+    {
+      "date": "2026-09-29T09:38:31Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "chore(deps): update quelware-client to 0.7.2 and quelware-core to 0.9.0",
+      "detail": "#411",
+      "url": "https://github.com/amachino/qubex/pull/411"
+    },
+    {
+      "date": "2026-09-29T09:35:14Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "chore(deps): update quelware-client to 0.7.2 and quelware-core to 0.9.0",
+      "detail": "#411",
+      "url": "https://github.com/amachino/qubex/pull/411"
+    },
     {
       "date": "2026-09-29T03:14:21Z",
       "kind": "Pushed",
@@ -28,28 +44,12 @@
       "url": "https://github.com/amachino/qubex/pull/410"
     },
     {
-      "date": "2026-09-29T02:36:01Z",
+      "date": "2026-09-29T02:44:41Z",
       "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "refactor(quel3): simplify shared runtime and execution internals (#409)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/d429854f92b89a3d1324624acc43c8ed8133c565"
-    },
-    {
-      "date": "2026-09-29T02:30:41Z",
-      "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "refactor(quel3): simplify shared runtime and execution internals",
-      "detail": "#409",
-      "url": "https://github.com/amachino/qubex/pull/409"
-    },
-    {
-      "date": "2026-09-29T02:19:42Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "refactor(quel3)!: separate resource inspection and cumulative read levels",
-      "detail": "#410",
-      "url": "https://github.com/amachino/qubex/pull/410"
+      "title": "refactor(quel3)!: make resource acquisition levels cumulative",
+      "detail": "refactor/quel3-resource-inspection",
+      "url": "https://github.com/amachino/qubex/commit/a8bc0e821225f2ba6ff940ddae2f367ff92404f0"
     }
   ]
 }

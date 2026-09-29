@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 26 commits, 28 pull requests, 2 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 27 commits, 29 pull requests, 2 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
+- `Sep 29` **Merged** [chore\(deps\): update quelware\-client to 0\.7\.2 and quelware\-core to 0\.9\.0](https://github.com/amachino/qubex/pull/411) — amachino/qubex · \#411
+- `Sep 29` **Opened** [chore\(deps\): update quelware\-client to 0\.7\.2 and quelware\-core to 0\.9\.0](https://github.com/amachino/qubex/pull/411) — amachino/qubex · \#411
 - `Sep 29` **Pushed** [refactor\(quel3\)\!: separate resource inspection and cumulative read levels \(\#410\)](https://github.com/amachino/qubex/commit/f2b6bf8f14dc93ddeab868d588e2f75fcb012112) — amachino/qubex · develop
 - `Sep 29` **Merged** [refactor\(quel3\)\!: separate resource inspection and cumulative read levels](https://github.com/amachino/qubex/pull/410) — amachino/qubex · \#410
-- `Sep 29` **Pushed** [refactor\(quel3\): simplify shared runtime and execution internals \(\#409\)](https://github.com/msk-ono/qubex/commit/d429854f92b89a3d1324624acc43c8ed8133c565) — msk\-ono/qubex · develop
-- `Sep 29` **Merged** [refactor\(quel3\): simplify shared runtime and execution internals](https://github.com/amachino/qubex/pull/409) — amachino/qubex · \#409
-- `Sep 29` **Opened** [refactor\(quel3\)\!: separate resource inspection and cumulative read levels](https://github.com/amachino/qubex/pull/410) — amachino/qubex · \#410
+- `Sep 29` **Pushed** [refactor\(quel3\)\!: make resource acquisition levels cumulative](https://github.com/amachino/qubex/commit/a8bc0e821225f2ba6ff940ddae2f367ff92404f0) — amachino/qubex · refactor/quel3\-resource\-inspection
 
-<sub>Public activity · Last 30 days · Updated 2026-09-29 05:50 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-09-29 13:02 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
