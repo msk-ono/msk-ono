@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 23 commits, 25 pull requests, 2 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 26 commits, 28 pull requests, 2 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
-- `Sep 28` **Pushed** [feat\(quel3\): add managed monitor schedule execution \(\#407\)](https://github.com/msk-ono/qubex/commit/65b94ce563e8cebca8e208028ef5e17f2a6d1074) — msk\-ono/qubex · develop
-- `Sep 28` **Pushed** [feat\(quel3\): add managed monitor schedule execution \(\#407\)](https://github.com/amachino/qubex/commit/65b94ce563e8cebca8e208028ef5e17f2a6d1074) — amachino/qubex · develop
-- `Sep 28` **Merged** [feat\(quel3\): add managed monitor schedule execution](https://github.com/amachino/qubex/pull/407) — amachino/qubex · \#407
-- `Sep 28` **Pushed** [feat\(quel3\): infer monitor unit from live schedule targets](https://github.com/msk-ono/qubex/commit/6467f7aca11e0129e98683da9b9efa31a0c5b6d7) — msk\-ono/qubex · feature/quel3\-monitor\-service
-- `Sep 28` **Pushed** [feat: clarify optimal and idle voltage APIs \(\#405\)](https://github.com/msk-ono/qubex/commit/64172d1a20065ed144176f4af4b3e64df1f93cfd) — msk\-ono/qubex · develop
+- `Sep 29` **Pushed** [refactor\(quel3\)\!: separate resource inspection and cumulative read levels \(\#410\)](https://github.com/amachino/qubex/commit/f2b6bf8f14dc93ddeab868d588e2f75fcb012112) — amachino/qubex · develop
+- `Sep 29` **Merged** [refactor\(quel3\)\!: separate resource inspection and cumulative read levels](https://github.com/amachino/qubex/pull/410) — amachino/qubex · \#410
+- `Sep 29` **Pushed** [refactor\(quel3\): simplify shared runtime and execution internals \(\#409\)](https://github.com/msk-ono/qubex/commit/d429854f92b89a3d1324624acc43c8ed8133c565) — msk\-ono/qubex · develop
+- `Sep 29` **Merged** [refactor\(quel3\): simplify shared runtime and execution internals](https://github.com/amachino/qubex/pull/409) — amachino/qubex · \#409
+- `Sep 29` **Opened** [refactor\(quel3\)\!: separate resource inspection and cumulative read levels](https://github.com/amachino/qubex/pull/410) — amachino/qubex · \#410
 
-<sub>Public activity · Last 30 days · Updated 2026-09-28 23:21 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-09-29 05:50 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

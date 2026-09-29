@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-09-28T23:21:01Z",
+  "updated_at": "2026-09-29T05:50:29Z",
   "period": {
-    "from": "2026-08-29T23:21:01Z",
-    "to": "2026-09-28T23:21:01Z"
+    "from": "2026-08-30T05:50:29Z",
+    "to": "2026-09-29T05:50:29Z"
   },
   "counts": {
-    "commits": 23,
-    "prs": 25,
+    "commits": 26,
+    "prs": 28,
     "reviews": 2
   },
   "activity": [
     {
-      "date": "2026-09-28T15:13:12Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "feat(quel3): add managed monitor schedule execution (#407)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/65b94ce563e8cebca8e208028ef5e17f2a6d1074"
-    },
-    {
-      "date": "2026-09-28T15:12:29Z",
+      "date": "2026-09-29T03:14:21Z",
       "kind": "Pushed",
       "repo": "amachino/qubex",
-      "title": "feat(quel3): add managed monitor schedule execution (#407)",
+      "title": "refactor(quel3)!: separate resource inspection and cumulative read levels (#410)",
       "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/65b94ce563e8cebca8e208028ef5e17f2a6d1074"
+      "url": "https://github.com/amachino/qubex/commit/f2b6bf8f14dc93ddeab868d588e2f75fcb012112"
     },
     {
-      "date": "2026-09-28T15:12:27Z",
+      "date": "2026-09-29T03:14:20Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "feat(quel3): add managed monitor schedule execution",
-      "detail": "#407",
-      "url": "https://github.com/amachino/qubex/pull/407"
+      "title": "refactor(quel3)!: separate resource inspection and cumulative read levels",
+      "detail": "#410",
+      "url": "https://github.com/amachino/qubex/pull/410"
     },
     {
-      "date": "2026-09-28T15:05:06Z",
+      "date": "2026-09-29T02:36:01Z",
       "kind": "Pushed",
       "repo": "msk-ono/qubex",
-      "title": "feat(quel3): infer monitor unit from live schedule targets",
-      "detail": "feature/quel3-monitor-service",
-      "url": "https://github.com/msk-ono/qubex/commit/6467f7aca11e0129e98683da9b9efa31a0c5b6d7"
-    },
-    {
-      "date": "2026-09-28T08:48:51Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "feat: clarify optimal and idle voltage APIs (#405)",
+      "title": "refactor(quel3): simplify shared runtime and execution internals (#409)",
       "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/64172d1a20065ed144176f4af4b3e64df1f93cfd"
+      "url": "https://github.com/msk-ono/qubex/commit/d429854f92b89a3d1324624acc43c8ed8133c565"
+    },
+    {
+      "date": "2026-09-29T02:30:41Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "refactor(quel3): simplify shared runtime and execution internals",
+      "detail": "#409",
+      "url": "https://github.com/amachino/qubex/pull/409"
+    },
+    {
+      "date": "2026-09-29T02:19:42Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "refactor(quel3)!: separate resource inspection and cumulative read levels",
+      "detail": "#410",
+      "url": "https://github.com/amachino/qubex/pull/410"
     }
   ]
 }
