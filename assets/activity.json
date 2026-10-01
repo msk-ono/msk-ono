@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-09-30T22:21:53Z",
+  "updated_at": "2026-10-01T06:05:50Z",
   "period": {
-    "from": "2026-08-31T22:21:53Z",
-    "to": "2026-09-30T22:21:53Z"
+    "from": "2026-09-01T06:05:50Z",
+    "to": "2026-10-01T06:05:50Z"
   },
   "counts": {
     "commits": 27,
@@ -11,6 +11,14 @@
     "reviews": 2
   },
   "activity": [
+    {
+      "date": "2026-10-01T05:34:52Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "fix: return filtered CKP figures for QDash (#416)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/fe3b2b9c92247739a26231e105d273bf17b4c699"
+    },
     {
       "date": "2026-09-30T04:10:16Z",
       "kind": "Pushed",
@@ -42,14 +50,6 @@
       "title": "chore(deps): update quelware-client to 0.7.2 and quelware-core to 0.9.0",
       "detail": "#411",
       "url": "https://github.com/amachino/qubex/pull/411"
-    },
-    {
-      "date": "2026-09-29T03:14:21Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "refactor(quel3)!: separate resource inspection and cumulative read levels (#410)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/f2b6bf8f14dc93ddeab868d588e2f75fcb012112"
     }
   ]
 }
