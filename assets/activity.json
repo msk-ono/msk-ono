@@ -1,16 +1,40 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-01T22:45:26Z",
+  "updated_at": "2026-10-02T05:48:43Z",
   "period": {
-    "from": "2026-09-01T22:45:26Z",
-    "to": "2026-10-01T22:45:26Z"
+    "from": "2026-09-02T05:48:43Z",
+    "to": "2026-10-02T05:48:43Z"
   },
   "counts": {
-    "commits": 28,
+    "commits": 27,
     "prs": 30,
     "reviews": 2
   },
   "activity": [
+    {
+      "date": "2026-10-02T05:28:35Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): wait for instrument results through session",
+      "detail": "#418",
+      "url": "https://github.com/amachino/qubex/pull/418"
+    },
+    {
+      "date": "2026-10-02T05:24:59Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): wait for instrument results through session",
+      "detail": "#418",
+      "url": "https://github.com/amachino/qubex/pull/418"
+    },
+    {
+      "date": "2026-10-02T05:22:43Z",
+      "kind": "Opened",
+      "repo": "msk-ono/qubex",
+      "title": "fix(quel3): wait for instrument results through session",
+      "detail": "#6",
+      "url": "https://github.com/msk-ono/qubex/pull/6"
+    },
     {
       "date": "2026-10-01T12:56:55Z",
       "kind": "Merged",
@@ -26,30 +50,6 @@
       "title": "fix(quel3): attenuate gains by 3 dB and expand secret paths",
       "detail": "#417",
       "url": "https://github.com/amachino/qubex/pull/417"
-    },
-    {
-      "date": "2026-10-01T05:34:52Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "fix: return filtered CKP figures for QDash (#416)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/fe3b2b9c92247739a26231e105d273bf17b4c699"
-    },
-    {
-      "date": "2026-09-30T04:10:16Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "chore(deps): update quelware-client to 0.7.2 and quelware-core to 0.9.0 (#411)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/09260aeb9b8461fe252c3f155ac1d077011a2a41"
-    },
-    {
-      "date": "2026-09-29T09:38:32Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "chore(deps): update quelware-client to 0.7.2 and quelware-core to 0.9.0 (#411)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/09260aeb9b8461fe252c3f155ac1d077011a2a41"
     }
   ]
 }
