@@ -1,13 +1,13 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-02T22:19:23Z",
+  "updated_at": "2026-10-03T05:25:26Z",
   "period": {
-    "from": "2026-09-02T22:19:23Z",
-    "to": "2026-10-02T22:19:23Z"
+    "from": "2026-09-03T05:25:26Z",
+    "to": "2026-10-03T05:25:26Z"
   },
   "counts": {
-    "commits": 27,
-    "prs": 30,
+    "commits": 26,
+    "prs": 29,
     "reviews": 2
   },
   "activity": [
@@ -36,16 +36,16 @@
       "url": "https://github.com/msk-ono/qubex/pull/6"
     },
     {
-      "date": "2026-10-01T12:56:55Z",
-      "kind": "Merged",
+      "date": "2026-10-01T12:56:56Z",
+      "kind": "Pushed",
       "repo": "amachino/qubex",
-      "title": "fix(quel3): attenuate gains by 3 dB and expand secret paths",
-      "detail": "#417",
-      "url": "https://github.com/amachino/qubex/pull/417"
+      "title": "fix(quel3): attenuate gains by 3 dB and expand secret paths (#417)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/d6ab05a8ce7b5b41ce70b56f80a807d2ba4fefe1"
     },
     {
-      "date": "2026-10-01T12:47:46Z",
-      "kind": "Opened",
+      "date": "2026-10-01T12:56:55Z",
+      "kind": "Merged",
       "repo": "amachino/qubex",
       "title": "fix(quel3): attenuate gains by 3 dB and expand secret paths",
       "detail": "#417",
