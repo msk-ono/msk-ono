@@ -21,13 +21,13 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 
 **Recent activity**
 
+- `Oct 03` **Pushed** [fix\(quel3\): wait for instrument results through session \(\#418\)](https://github.com/msk-ono/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0) — msk\-ono/qubex · develop
+- `Oct 02` **Pushed** [fix\(quel3\): wait for instrument results through session \(\#418\)](https://github.com/amachino/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0) — amachino/qubex · develop
 - `Oct 02` **Merged** [fix\(quel3\): wait for instrument results through session](https://github.com/amachino/qubex/pull/418) — amachino/qubex · \#418
 - `Oct 02` **Opened** [fix\(quel3\): wait for instrument results through session](https://github.com/amachino/qubex/pull/418) — amachino/qubex · \#418
 - `Oct 02` **Opened** [fix\(quel3\): wait for instrument results through session](https://github.com/msk-ono/qubex/pull/6) — msk\-ono/qubex · \#6
-- `Oct 01` **Pushed** [fix\(quel3\): attenuate gains by 3 dB and expand secret paths \(\#417\)](https://github.com/amachino/qubex/commit/d6ab05a8ce7b5b41ce70b56f80a807d2ba4fefe1) — amachino/qubex · develop
-- `Oct 01` **Merged** [fix\(quel3\): attenuate gains by 3 dB and expand secret paths](https://github.com/amachino/qubex/pull/417) — amachino/qubex · \#417
 
-<sub>Public activity · Last 30 days · Updated 2026-10-03 16:28 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-03 21:24 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

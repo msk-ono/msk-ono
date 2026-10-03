@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-03T16:28:19Z",
+  "updated_at": "2026-10-03T21:24:25Z",
   "period": {
-    "from": "2026-09-03T16:28:19Z",
-    "to": "2026-10-03T16:28:19Z"
+    "from": "2026-09-03T21:24:25Z",
+    "to": "2026-10-03T21:24:25Z"
   },
   "counts": {
     "commits": 26,
@@ -11,6 +11,22 @@
     "reviews": 2
   },
   "activity": [
+    {
+      "date": "2026-10-03T07:53:20Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "fix(quel3): wait for instrument results through session (#418)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0"
+    },
+    {
+      "date": "2026-10-02T05:28:36Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): wait for instrument results through session (#418)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0"
+    },
     {
       "date": "2026-10-02T05:28:35Z",
       "kind": "Merged",
@@ -34,22 +50,6 @@
       "title": "fix(quel3): wait for instrument results through session",
       "detail": "#6",
       "url": "https://github.com/msk-ono/qubex/pull/6"
-    },
-    {
-      "date": "2026-10-01T12:56:56Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): attenuate gains by 3 dB and expand secret paths (#417)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/d6ab05a8ce7b5b41ce70b56f80a807d2ba4fefe1"
-    },
-    {
-      "date": "2026-10-01T12:56:55Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): attenuate gains by 3 dB and expand secret paths",
-      "detail": "#417",
-      "url": "https://github.com/amachino/qubex/pull/417"
     }
   ]
 }
