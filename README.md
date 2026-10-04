@@ -16,7 +16,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 26 commits, 29 pull requests, 2 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 25 commits, 28 pull requests, 2 reviews" width="1200">
 </picture>
 
 **Recent activity**
@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Oct 02` **Opened** [fix\(quel3\): wait for instrument results through session](https://github.com/amachino/qubex/pull/418) — amachino/qubex · \#418
 - `Oct 02` **Opened** [fix\(quel3\): wait for instrument results through session](https://github.com/msk-ono/qubex/pull/6) — msk\-ono/qubex · \#6
 
-<sub>Public activity · Last 30 days · Updated 2026-10-03 21:24 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-04 06:00 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
