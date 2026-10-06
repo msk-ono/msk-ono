@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-06T06:29:36Z",
+  "updated_at": "2026-10-06T18:27:26Z",
   "period": {
-    "from": "2026-09-06T06:29:36Z",
-    "to": "2026-10-06T06:29:36Z"
+    "from": "2026-09-06T18:27:26Z",
+    "to": "2026-10-06T18:27:26Z"
   },
   "counts": {
-    "commits": 23,
-    "prs": 23,
+    "commits": 27,
+    "prs": 27,
     "reviews": 2
   },
   "activity": [
     {
-      "date": "2026-10-06T05:50:01Z",
-      "kind": "Opened",
+      "date": "2026-10-06T08:23:57Z",
+      "kind": "Merged",
+      "repo": "oqtopus-team/qdash",
+      "title": "feat(workflow): add EF chevron task and metrics",
+      "detail": "#1538",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1538"
+    },
+    {
+      "date": "2026-10-06T08:22:53Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qdash",
+      "title": "chore(repo): merge develop into EF chevron branch",
+      "detail": "feature/ef-chevron",
+      "url": "https://github.com/msk-ono/qdash/commit/d6c5003c0fcaa0cb88e47dcfc81d0bf07014d4f6"
+    },
+    {
+      "date": "2026-10-06T08:21:14Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qdash",
+      "title": "fix(workflow): prioritize EF chevron preview",
+      "detail": "feature/ef-chevron",
+      "url": "https://github.com/msk-ono/qdash/commit/c84ac32ffa391170956fa95bb1de32f5210b3aa4"
+    },
+    {
+      "date": "2026-10-06T08:13:54Z",
+      "kind": "Merged",
       "repo": "oqtopus-team/qdash",
       "title": "feat(workflow): add JAZZ task for static ZZ interaction",
       "detail": "#1537",
       "url": "https://github.com/oqtopus-team/qdash/pull/1537"
     },
     {
-      "date": "2026-10-06T05:46:11Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qdash",
-      "title": "feat: show live pipeline progress in Copilot (#1536)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qdash/commit/4daee4e4c11007dd08addd5b138498322bfef9a1"
-    },
-    {
-      "date": "2026-10-03T07:53:20Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix(quel3): wait for instrument results through session (#418)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0"
-    },
-    {
-      "date": "2026-10-02T05:28:36Z",
+      "date": "2026-10-06T08:08:28Z",
       "kind": "Pushed",
       "repo": "amachino/qubex",
-      "title": "fix(quel3): wait for instrument results through session (#418)",
+      "title": "fix(quel3): preserve client sequencer blank defaults (#420)",
       "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0"
-    },
-    {
-      "date": "2026-10-02T05:28:35Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): wait for instrument results through session",
-      "detail": "#418",
-      "url": "https://github.com/amachino/qubex/pull/418"
+      "url": "https://github.com/amachino/qubex/commit/b518dfe4a44b4ab491d327b308278f83a8bd84b5"
     }
   ]
 }

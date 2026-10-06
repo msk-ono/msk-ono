@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 23 commits, 23 pull requests, 2 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 27 commits, 27 pull requests, 2 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
-- `Oct 06` **Opened** [feat\(workflow\): add JAZZ task for static ZZ interaction](https://github.com/oqtopus-team/qdash/pull/1537) — oqtopus\-team/qdash · \#1537
-- `Oct 06` **Pushed** [feat: show live pipeline progress in Copilot \(\#1536\)](https://github.com/msk-ono/qdash/commit/4daee4e4c11007dd08addd5b138498322bfef9a1) — msk\-ono/qdash · develop
-- `Oct 03` **Pushed** [fix\(quel3\): wait for instrument results through session \(\#418\)](https://github.com/msk-ono/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0) — msk\-ono/qubex · develop
-- `Oct 02` **Pushed** [fix\(quel3\): wait for instrument results through session \(\#418\)](https://github.com/amachino/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0) — amachino/qubex · develop
-- `Oct 02` **Merged** [fix\(quel3\): wait for instrument results through session](https://github.com/amachino/qubex/pull/418) — amachino/qubex · \#418
+- `Oct 06` **Merged** [feat\(workflow\): add EF chevron task and metrics](https://github.com/oqtopus-team/qdash/pull/1538) — oqtopus\-team/qdash · \#1538
+- `Oct 06` **Pushed** [chore\(repo\): merge develop into EF chevron branch](https://github.com/msk-ono/qdash/commit/d6c5003c0fcaa0cb88e47dcfc81d0bf07014d4f6) — msk\-ono/qdash · feature/ef\-chevron
+- `Oct 06` **Pushed** [fix\(workflow\): prioritize EF chevron preview](https://github.com/msk-ono/qdash/commit/c84ac32ffa391170956fa95bb1de32f5210b3aa4) — msk\-ono/qdash · feature/ef\-chevron
+- `Oct 06` **Merged** [feat\(workflow\): add JAZZ task for static ZZ interaction](https://github.com/oqtopus-team/qdash/pull/1537) — oqtopus\-team/qdash · \#1537
+- `Oct 06` **Pushed** [fix\(quel3\): preserve client sequencer blank defaults \(\#420\)](https://github.com/amachino/qubex/commit/b518dfe4a44b4ab491d327b308278f83a8bd84b5) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-10-06 06:29 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-06 18:27 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
