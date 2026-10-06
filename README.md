@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 23 commits, 22 pull requests, 2 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 23 commits, 23 pull requests, 2 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
+- `Oct 06` **Opened** [feat\(workflow\): add JAZZ task for static ZZ interaction](https://github.com/oqtopus-team/qdash/pull/1537) — oqtopus\-team/qdash · \#1537
+- `Oct 06` **Pushed** [feat: show live pipeline progress in Copilot \(\#1536\)](https://github.com/msk-ono/qdash/commit/4daee4e4c11007dd08addd5b138498322bfef9a1) — msk\-ono/qdash · develop
 - `Oct 03` **Pushed** [fix\(quel3\): wait for instrument results through session \(\#418\)](https://github.com/msk-ono/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0) — msk\-ono/qubex · develop
 - `Oct 02` **Pushed** [fix\(quel3\): wait for instrument results through session \(\#418\)](https://github.com/amachino/qubex/commit/59ec334b6d14c45f4e960dd54c76c949dc989fa0) — amachino/qubex · develop
 - `Oct 02` **Merged** [fix\(quel3\): wait for instrument results through session](https://github.com/amachino/qubex/pull/418) — amachino/qubex · \#418
-- `Oct 02` **Opened** [fix\(quel3\): wait for instrument results through session](https://github.com/amachino/qubex/pull/418) — amachino/qubex · \#418
-- `Oct 02` **Opened** [fix\(quel3\): wait for instrument results through session](https://github.com/msk-ono/qubex/pull/6) — msk\-ono/qubex · \#6
 
-<sub>Public activity · Last 30 days · Updated 2026-10-06 00:07 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-06 06:29 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
