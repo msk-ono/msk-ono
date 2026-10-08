@@ -23,11 +23,11 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 
 - `Oct 08` **Merged** [feat\(quel3\): move packing into backend execution](https://github.com/amachino/qubex/pull/423) — amachino/qubex · \#423
 - `Oct 08` **Opened** [feat\(quel3\): move packing into backend execution](https://github.com/amachino/qubex/pull/423) — amachino/qubex · \#423
+- `Oct 08` **Pushed** [feat\(quel3\): record execution phase timings at debug](https://github.com/msk-ono/qubex/commit/13c24529ce6db80e0a696886a97829e75425d07a) — msk\-ono/qubex · feature/quel3\-backend\-packing
+- `Oct 08` **Pushed** [feat\(quel3\): add per\-port cable delay compensation \(\#422\)](https://github.com/amachino/qubex/commit/34910899d45ca48c6587debf37a4a64029c68564) — amachino/qubex · develop
 - `Oct 08` **Merged** [feat\(quel3\): add per\-port cable delay compensation](https://github.com/amachino/qubex/pull/422) — amachino/qubex · \#422
-- `Oct 08` **Opened** [feat\(quel3\): add per\-port cable delay compensation](https://github.com/amachino/qubex/pull/422) — amachino/qubex · \#422
-- `Oct 07` **Reviewed** [feat\(experiment\): support temporary capture delays in nanoseconds](https://github.com/amachino/qubex/pull/387#pullrequestreview-5439672861) — amachino/qubex · \#387
 
-<sub>Public activity · Last 30 days · Updated 2026-10-08 13:43 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-08 23:25 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

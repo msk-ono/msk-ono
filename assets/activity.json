@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-08T13:43:06Z",
+  "updated_at": "2026-10-08T23:25:37Z",
   "period": {
-    "from": "2026-09-08T13:43:06Z",
-    "to": "2026-10-08T13:43:06Z"
+    "from": "2026-09-08T23:25:37Z",
+    "to": "2026-10-08T23:25:37Z"
   },
   "counts": {
     "commits": 29,
@@ -28,28 +28,28 @@
       "url": "https://github.com/amachino/qubex/pull/423"
     },
     {
+      "date": "2026-10-08T06:12:40Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "feat(quel3): record execution phase timings at debug",
+      "detail": "feature/quel3-backend-packing",
+      "url": "https://github.com/msk-ono/qubex/commit/13c24529ce6db80e0a696886a97829e75425d07a"
+    },
+    {
+      "date": "2026-10-08T02:34:35Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): add per-port cable delay compensation (#422)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/34910899d45ca48c6587debf37a4a64029c68564"
+    },
+    {
       "date": "2026-10-08T02:34:33Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
       "title": "feat(quel3): add per-port cable delay compensation",
       "detail": "#422",
       "url": "https://github.com/amachino/qubex/pull/422"
-    },
-    {
-      "date": "2026-10-08T02:31:24Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): add per-port cable delay compensation",
-      "detail": "#422",
-      "url": "https://github.com/amachino/qubex/pull/422"
-    },
-    {
-      "date": "2026-10-07T08:32:13Z",
-      "kind": "Reviewed",
-      "repo": "amachino/qubex",
-      "title": "feat(experiment): support temporary capture delays in nanoseconds",
-      "detail": "#387",
-      "url": "https://github.com/amachino/qubex/pull/387#pullrequestreview-5439672861"
     }
   ]
 }
