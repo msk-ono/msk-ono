@@ -1,16 +1,32 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-07T23:10:02Z",
+  "updated_at": "2026-10-08T06:15:07Z",
   "period": {
-    "from": "2026-09-07T23:10:02Z",
-    "to": "2026-10-07T23:10:02Z"
+    "from": "2026-09-08T06:15:07Z",
+    "to": "2026-10-08T06:15:07Z"
   },
   "counts": {
-    "commits": 27,
-    "prs": 27,
+    "commits": 28,
+    "prs": 28,
     "reviews": 2
   },
   "activity": [
+    {
+      "date": "2026-10-08T02:34:33Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): add per-port cable delay compensation",
+      "detail": "#422",
+      "url": "https://github.com/amachino/qubex/pull/422"
+    },
+    {
+      "date": "2026-10-08T02:31:24Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): add per-port cable delay compensation",
+      "detail": "#422",
+      "url": "https://github.com/amachino/qubex/pull/422"
+    },
     {
       "date": "2026-10-07T08:32:13Z",
       "kind": "Reviewed",
@@ -34,22 +50,6 @@
       "title": "feat(workflow): add EF chevron task and metrics",
       "detail": "#1538",
       "url": "https://github.com/oqtopus-team/qdash/pull/1538"
-    },
-    {
-      "date": "2026-10-06T08:22:53Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qdash",
-      "title": "chore(repo): merge develop into EF chevron branch",
-      "detail": "feature/ef-chevron",
-      "url": "https://github.com/msk-ono/qdash/commit/d6c5003c0fcaa0cb88e47dcfc81d0bf07014d4f6"
-    },
-    {
-      "date": "2026-10-06T08:21:14Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qdash",
-      "title": "fix(workflow): prioritize EF chevron preview",
-      "detail": "feature/ef-chevron",
-      "url": "https://github.com/msk-ono/qdash/commit/c84ac32ffa391170956fa95bb1de32f5210b3aa4"
     }
   ]
 }
