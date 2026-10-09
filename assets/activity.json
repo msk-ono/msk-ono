@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-08T23:25:37Z",
+  "updated_at": "2026-10-09T06:17:44Z",
   "period": {
-    "from": "2026-09-08T23:25:37Z",
-    "to": "2026-10-08T23:25:37Z"
+    "from": "2026-09-09T06:17:44Z",
+    "to": "2026-10-09T06:17:44Z"
   },
   "counts": {
-    "commits": 29,
+    "commits": 26,
     "prs": 29,
-    "reviews": 2
+    "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-08T06:59:00Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "feat(quel3): move packing into backend execution (#423)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/fd2739d17a1156d6fa385b87696a7a1c3d8e286b"
+    },
     {
       "date": "2026-10-08T06:45:30Z",
       "kind": "Merged",
@@ -36,20 +44,12 @@
       "url": "https://github.com/msk-ono/qubex/commit/13c24529ce6db80e0a696886a97829e75425d07a"
     },
     {
-      "date": "2026-10-08T02:34:35Z",
+      "date": "2026-10-08T05:13:20Z",
       "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): add per-port cable delay compensation (#422)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/34910899d45ca48c6587debf37a4a64029c68564"
-    },
-    {
-      "date": "2026-10-08T02:34:33Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): add per-port cable delay compensation",
-      "detail": "#422",
-      "url": "https://github.com/amachino/qubex/pull/422"
+      "repo": "msk-ono/qubex",
+      "title": "refactor(measurement): delegate schedule packing to the backend",
+      "detail": "feature/quel3-backend-packing",
+      "url": "https://github.com/msk-ono/qubex/commit/0b2bbb3cc5598b398470fdadbfc6d3b40396d9b0"
     }
   ]
 }
