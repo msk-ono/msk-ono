@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-09T06:17:44Z",
+  "updated_at": "2026-10-09T18:24:13Z",
   "period": {
-    "from": "2026-09-09T06:17:44Z",
-    "to": "2026-10-09T06:17:44Z"
+    "from": "2026-09-09T18:24:13Z",
+    "to": "2026-10-09T18:24:13Z"
   },
   "counts": {
-    "commits": 26,
-    "prs": 29,
+    "commits": 27,
+    "prs": 31,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-10-08T06:59:00Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "feat(quel3): move packing into backend execution (#423)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/fd2739d17a1156d6fa385b87696a7a1c3d8e286b"
+      "date": "2026-10-09T12:13:06Z",
+      "kind": "Opened",
+      "repo": "oqtopus-team/qdash",
+      "title": "feat(workflow): add EF configuration task and explicit modes",
+      "detail": "#1557",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1557"
     },
     {
-      "date": "2026-10-08T06:45:30Z",
+      "date": "2026-10-09T12:05:44Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qdash",
+      "title": "fix(workflow): keep final EF chevron figures together",
+      "detail": "feature/ef-configure",
+      "url": "https://github.com/msk-ono/qdash/commit/e288288b72d3ddf2979ca088375ce2281d9e4007"
+    },
+    {
+      "date": "2026-10-09T08:27:11Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): deploy temporary frequency overrides with append (#425)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/0d27c5568c09589a290ed2638461e604c8351c97"
+    },
+    {
+      "date": "2026-10-09T08:27:10Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "feat(quel3): move packing into backend execution",
-      "detail": "#423",
-      "url": "https://github.com/amachino/qubex/pull/423"
+      "title": "fix(quel3): deploy temporary frequency overrides with append",
+      "detail": "#425",
+      "url": "https://github.com/amachino/qubex/pull/425"
     },
     {
-      "date": "2026-10-08T06:38:15Z",
+      "date": "2026-10-09T07:54:56Z",
       "kind": "Opened",
       "repo": "amachino/qubex",
-      "title": "feat(quel3): move packing into backend execution",
-      "detail": "#423",
-      "url": "https://github.com/amachino/qubex/pull/423"
-    },
-    {
-      "date": "2026-10-08T06:12:40Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "feat(quel3): record execution phase timings at debug",
-      "detail": "feature/quel3-backend-packing",
-      "url": "https://github.com/msk-ono/qubex/commit/13c24529ce6db80e0a696886a97829e75425d07a"
-    },
-    {
-      "date": "2026-10-08T05:13:20Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "refactor(measurement): delegate schedule packing to the backend",
-      "detail": "feature/quel3-backend-packing",
-      "url": "https://github.com/msk-ono/qubex/commit/0b2bbb3cc5598b398470fdadbfc6d3b40396d9b0"
+      "title": "fix(quel3): deploy temporary frequency overrides with append",
+      "detail": "#425",
+      "url": "https://github.com/amachino/qubex/pull/425"
     }
   ]
 }

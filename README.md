@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 26 commits, 29 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 27 commits, 31 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
-- `Oct 08` **Pushed** [feat\(quel3\): move packing into backend execution \(\#423\)](https://github.com/msk-ono/qubex/commit/fd2739d17a1156d6fa385b87696a7a1c3d8e286b) — msk\-ono/qubex · develop
-- `Oct 08` **Merged** [feat\(quel3\): move packing into backend execution](https://github.com/amachino/qubex/pull/423) — amachino/qubex · \#423
-- `Oct 08` **Opened** [feat\(quel3\): move packing into backend execution](https://github.com/amachino/qubex/pull/423) — amachino/qubex · \#423
-- `Oct 08` **Pushed** [feat\(quel3\): record execution phase timings at debug](https://github.com/msk-ono/qubex/commit/13c24529ce6db80e0a696886a97829e75425d07a) — msk\-ono/qubex · feature/quel3\-backend\-packing
-- `Oct 08` **Pushed** [refactor\(measurement\): delegate schedule packing to the backend](https://github.com/msk-ono/qubex/commit/0b2bbb3cc5598b398470fdadbfc6d3b40396d9b0) — msk\-ono/qubex · feature/quel3\-backend\-packing
+- `Oct 09` **Opened** [feat\(workflow\): add EF configuration task and explicit modes](https://github.com/oqtopus-team/qdash/pull/1557) — oqtopus\-team/qdash · \#1557
+- `Oct 09` **Pushed** [fix\(workflow\): keep final EF chevron figures together](https://github.com/msk-ono/qdash/commit/e288288b72d3ddf2979ca088375ce2281d9e4007) — msk\-ono/qdash · feature/ef\-configure
+- `Oct 09` **Pushed** [fix\(quel3\): deploy temporary frequency overrides with append \(\#425\)](https://github.com/amachino/qubex/commit/0d27c5568c09589a290ed2638461e604c8351c97) — amachino/qubex · develop
+- `Oct 09` **Merged** [fix\(quel3\): deploy temporary frequency overrides with append](https://github.com/amachino/qubex/pull/425) — amachino/qubex · \#425
+- `Oct 09` **Opened** [fix\(quel3\): deploy temporary frequency overrides with append](https://github.com/amachino/qubex/pull/425) — amachino/qubex · \#425
 
-<sub>Public activity · Last 30 days · Updated 2026-10-09 06:17 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-09 18:24 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
