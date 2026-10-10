@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-09T18:24:13Z",
+  "updated_at": "2026-10-10T06:00:17Z",
   "period": {
-    "from": "2026-09-09T18:24:13Z",
-    "to": "2026-10-09T18:24:13Z"
+    "from": "2026-09-10T06:00:17Z",
+    "to": "2026-10-10T06:00:17Z"
   },
   "counts": {
     "commits": 27,
@@ -11,6 +11,14 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-09T14:09:16Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qdash",
+      "title": "fix(workflow): allow shared channels for EF measurements",
+      "detail": "feature/ef-configure",
+      "url": "https://github.com/msk-ono/qdash/commit/4069b9f10f40750236ff83bbdec01f7612441512"
+    },
     {
       "date": "2026-10-09T12:13:06Z",
       "kind": "Opened",
@@ -38,14 +46,6 @@
     {
       "date": "2026-10-09T08:27:10Z",
       "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): deploy temporary frequency overrides with append",
-      "detail": "#425",
-      "url": "https://github.com/amachino/qubex/pull/425"
-    },
-    {
-      "date": "2026-10-09T07:54:56Z",
-      "kind": "Opened",
       "repo": "amachino/qubex",
       "title": "fix(quel3): deploy temporary frequency overrides with append",
       "detail": "#425",
