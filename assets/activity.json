@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-11T05:57:11Z",
+  "updated_at": "2026-10-11T13:02:01Z",
   "period": {
-    "from": "2026-09-11T05:57:11Z",
-    "to": "2026-10-11T05:57:11Z"
+    "from": "2026-09-11T13:02:01Z",
+    "to": "2026-10-11T13:02:01Z"
   },
   "counts": {
-    "commits": 26,
+    "commits": 27,
     "prs": 29,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-11T08:34:29Z",
+      "kind": "Merged",
+      "repo": "oqtopus-team/qdash",
+      "title": "feat(workflow): add EF configuration task and explicit modes",
+      "detail": "#1557",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1557"
+    },
     {
       "date": "2026-10-09T14:09:16Z",
       "kind": "Pushed",
@@ -42,14 +50,6 @@
       "title": "fix(quel3): deploy temporary frequency overrides with append (#425)",
       "detail": "develop",
       "url": "https://github.com/amachino/qubex/commit/0d27c5568c09589a290ed2638461e604c8351c97"
-    },
-    {
-      "date": "2026-10-09T08:27:10Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): deploy temporary frequency overrides with append",
-      "detail": "#425",
-      "url": "https://github.com/amachino/qubex/pull/425"
     }
   ]
 }
