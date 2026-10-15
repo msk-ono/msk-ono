@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-15T04:49:54Z",
+  "updated_at": "2026-10-15T11:39:40Z",
   "period": {
-    "from": "2026-09-15T04:49:54Z",
-    "to": "2026-10-15T04:49:54Z"
+    "from": "2026-09-15T11:39:40Z",
+    "to": "2026-10-15T11:39:40Z"
   },
   "counts": {
-    "commits": 21,
-    "prs": 22,
+    "commits": 23,
+    "prs": 25,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-10-11T08:34:29Z",
-      "kind": "Merged",
-      "repo": "oqtopus-team/qdash",
-      "title": "feat(workflow): add EF configuration task and explicit modes",
-      "detail": "#1557",
-      "url": "https://github.com/oqtopus-team/qdash/pull/1557"
-    },
-    {
-      "date": "2026-10-09T14:09:16Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qdash",
-      "title": "fix(workflow): allow shared channels for EF measurements",
-      "detail": "feature/ef-configure",
-      "url": "https://github.com/msk-ono/qdash/commit/4069b9f10f40750236ff83bbdec01f7612441512"
-    },
-    {
-      "date": "2026-10-09T12:13:06Z",
+      "date": "2026-10-15T09:00:08Z",
       "kind": "Opened",
       "repo": "oqtopus-team/qdash",
-      "title": "feat(workflow): add EF configuration task and explicit modes",
-      "detail": "#1557",
-      "url": "https://github.com/oqtopus-team/qdash/pull/1557"
+      "title": "fix(workflow): remove EF chevron DRAG pi input requirements",
+      "detail": "#1591",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1591"
     },
     {
-      "date": "2026-10-09T12:05:44Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qdash",
-      "title": "fix(workflow): keep final EF chevron figures together",
-      "detail": "feature/ef-configure",
-      "url": "https://github.com/msk-ono/qdash/commit/e288288b72d3ddf2979ca088375ce2281d9e4007"
-    },
-    {
-      "date": "2026-10-09T08:27:11Z",
-      "kind": "Pushed",
+      "date": "2026-10-15T05:59:22Z",
+      "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "fix(quel3): deploy temporary frequency overrides with append (#425)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/0d27c5568c09589a290ed2638461e604c8351c97"
+      "title": "fix(quel3): scope frequency readback to changed instruments",
+      "detail": "#428",
+      "url": "https://github.com/amachino/qubex/pull/428"
+    },
+    {
+      "date": "2026-10-15T05:54:25Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): scope frequency readback to changed instruments",
+      "detail": "#428",
+      "url": "https://github.com/amachino/qubex/pull/428"
+    },
+    {
+      "date": "2026-10-15T05:34:27Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): recover stale instrument resources and improve diagnostics",
+      "detail": "#427",
+      "url": "https://github.com/amachino/qubex/pull/427"
+    },
+    {
+      "date": "2026-10-15T05:30:30Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): recover stale instrument resources and improve diagnostics",
+      "detail": "#427",
+      "url": "https://github.com/amachino/qubex/pull/427"
     }
   ]
 }
