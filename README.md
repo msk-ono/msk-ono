@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 23 commits, 25 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 24 commits, 26 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
-- `Oct 15` **Opened** [fix\(workflow\): remove EF chevron DRAG pi input requirements](https://github.com/oqtopus-team/qdash/pull/1591) — oqtopus\-team/qdash · \#1591
+- `Oct 16` **Merged** [fix\(workflow\): format EF chevron frequency calculation](https://github.com/oqtopus-team/qdash/pull/1592) — oqtopus\-team/qdash · \#1592
+- `Oct 16` **Opened** [fix\(workflow\): format EF chevron frequency calculation](https://github.com/oqtopus-team/qdash/pull/1592) — oqtopus\-team/qdash · \#1592
+- `Oct 16` **Merged** [fix\(workflow\): use half\-pi inputs for EF chevron](https://github.com/oqtopus-team/qdash/pull/1591) — oqtopus\-team/qdash · \#1591
+- `Oct 15` **Opened** [fix\(workflow\): use half\-pi inputs for EF chevron](https://github.com/oqtopus-team/qdash/pull/1591) — oqtopus\-team/qdash · \#1591
 - `Oct 15` **Merged** [fix\(quel3\): scope frequency readback to changed instruments](https://github.com/amachino/qubex/pull/428) — amachino/qubex · \#428
-- `Oct 15` **Opened** [fix\(quel3\): scope frequency readback to changed instruments](https://github.com/amachino/qubex/pull/428) — amachino/qubex · \#428
-- `Oct 15` **Merged** [fix\(quel3\): recover stale instrument resources and improve diagnostics](https://github.com/amachino/qubex/pull/427) — amachino/qubex · \#427
-- `Oct 15` **Opened** [fix\(quel3\): recover stale instrument resources and improve diagnostics](https://github.com/amachino/qubex/pull/427) — amachino/qubex · \#427
 
-<sub>Public activity · Last 30 days · Updated 2026-10-15 21:29 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-16 04:40 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

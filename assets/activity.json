@@ -1,21 +1,45 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-15T21:29:44Z",
+  "updated_at": "2026-10-16T04:40:08Z",
   "period": {
-    "from": "2026-09-15T21:29:44Z",
-    "to": "2026-10-15T21:29:44Z"
+    "from": "2026-09-16T04:40:08Z",
+    "to": "2026-10-16T04:40:08Z"
   },
   "counts": {
-    "commits": 23,
-    "prs": 25,
+    "commits": 24,
+    "prs": 26,
     "reviews": 1
   },
   "activity": [
     {
+      "date": "2026-10-16T03:37:41Z",
+      "kind": "Merged",
+      "repo": "oqtopus-team/qdash",
+      "title": "fix(workflow): format EF chevron frequency calculation",
+      "detail": "#1592",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1592"
+    },
+    {
+      "date": "2026-10-16T03:34:03Z",
+      "kind": "Opened",
+      "repo": "oqtopus-team/qdash",
+      "title": "fix(workflow): format EF chevron frequency calculation",
+      "detail": "#1592",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1592"
+    },
+    {
+      "date": "2026-10-16T03:27:37Z",
+      "kind": "Merged",
+      "repo": "oqtopus-team/qdash",
+      "title": "fix(workflow): use half-pi inputs for EF chevron",
+      "detail": "#1591",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1591"
+    },
+    {
       "date": "2026-10-15T09:00:08Z",
       "kind": "Opened",
       "repo": "oqtopus-team/qdash",
-      "title": "fix(workflow): remove EF chevron DRAG pi input requirements",
+      "title": "fix(workflow): use half-pi inputs for EF chevron",
       "detail": "#1591",
       "url": "https://github.com/oqtopus-team/qdash/pull/1591"
     },
@@ -26,30 +50,6 @@
       "title": "fix(quel3): scope frequency readback to changed instruments",
       "detail": "#428",
       "url": "https://github.com/amachino/qubex/pull/428"
-    },
-    {
-      "date": "2026-10-15T05:54:25Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): scope frequency readback to changed instruments",
-      "detail": "#428",
-      "url": "https://github.com/amachino/qubex/pull/428"
-    },
-    {
-      "date": "2026-10-15T05:34:27Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): recover stale instrument resources and improve diagnostics",
-      "detail": "#427",
-      "url": "https://github.com/amachino/qubex/pull/427"
-    },
-    {
-      "date": "2026-10-15T05:30:30Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): recover stale instrument resources and improve diagnostics",
-      "detail": "#427",
-      "url": "https://github.com/amachino/qubex/pull/427"
     }
   ]
 }
