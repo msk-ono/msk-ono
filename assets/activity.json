@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-16T04:40:08Z",
+  "updated_at": "2026-10-16T11:33:49Z",
   "period": {
-    "from": "2026-09-16T04:40:08Z",
-    "to": "2026-10-16T04:40:08Z"
+    "from": "2026-09-16T11:33:49Z",
+    "to": "2026-10-16T11:33:49Z"
   },
   "counts": {
     "commits": 24,
@@ -44,12 +44,12 @@
       "url": "https://github.com/oqtopus-team/qdash/pull/1591"
     },
     {
-      "date": "2026-10-15T05:59:22Z",
-      "kind": "Merged",
+      "date": "2026-10-15T05:59:23Z",
+      "kind": "Pushed",
       "repo": "amachino/qubex",
-      "title": "fix(quel3): scope frequency readback to changed instruments",
-      "detail": "#428",
-      "url": "https://github.com/amachino/qubex/pull/428"
+      "title": "fix(quel3): scope frequency readback to changed instruments (#428)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/4bbc46634edee7c05faf7f2bfe7b00296fc172e5"
     }
   ]
 }

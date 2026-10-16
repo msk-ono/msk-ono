@@ -25,9 +25,9 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Oct 16` **Opened** [fix\(workflow\): format EF chevron frequency calculation](https://github.com/oqtopus-team/qdash/pull/1592) — oqtopus\-team/qdash · \#1592
 - `Oct 16` **Merged** [fix\(workflow\): use half\-pi inputs for EF chevron](https://github.com/oqtopus-team/qdash/pull/1591) — oqtopus\-team/qdash · \#1591
 - `Oct 15` **Opened** [fix\(workflow\): use half\-pi inputs for EF chevron](https://github.com/oqtopus-team/qdash/pull/1591) — oqtopus\-team/qdash · \#1591
-- `Oct 15` **Merged** [fix\(quel3\): scope frequency readback to changed instruments](https://github.com/amachino/qubex/pull/428) — amachino/qubex · \#428
+- `Oct 15` **Pushed** [fix\(quel3\): scope frequency readback to changed instruments \(\#428\)](https://github.com/amachino/qubex/commit/4bbc46634edee7c05faf7f2bfe7b00296fc172e5) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-10-16 04:40 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-16 11:33 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
