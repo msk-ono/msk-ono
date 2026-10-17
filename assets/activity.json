@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-17T04:37:24Z",
+  "updated_at": "2026-10-17T10:53:53Z",
   "period": {
-    "from": "2026-09-17T04:37:24Z",
-    "to": "2026-10-17T04:37:24Z"
+    "from": "2026-09-17T10:53:53Z",
+    "to": "2026-10-17T10:53:53Z"
   },
   "counts": {
     "commits": 21,
@@ -36,20 +36,20 @@
       "url": "https://github.com/oqtopus-team/qdash/pull/1591"
     },
     {
+      "date": "2026-10-16T03:21:58Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qdash",
+      "title": "fix(workflow): use control frequency for EF chevron",
+      "detail": "bugfix/ef-chevron-remove-drag-pi-inputs",
+      "url": "https://github.com/msk-ono/qdash/commit/3256fbe115f2559ebb410ffbbee75b8cec09ceba"
+    },
+    {
       "date": "2026-10-16T03:15:39Z",
       "kind": "Pushed",
       "repo": "msk-ono/qdash",
       "title": "fix(workflow): require half-pi inputs for EF chevron",
       "detail": "bugfix/ef-chevron-remove-drag-pi-inputs",
       "url": "https://github.com/msk-ono/qdash/commit/20a4345f33a36e234506a54736332e683b332739"
-    },
-    {
-      "date": "2026-10-15T23:39:55Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qdash",
-      "title": "Apply suggestion from @pullfrog[bot]",
-      "detail": "bugfix/ef-chevron-remove-drag-pi-inputs",
-      "url": "https://github.com/msk-ono/qdash/commit/d762588fea25db34e0d3b40e6bfc77cc1bc4595f"
     }
   ]
 }
