@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-19T13:31:57Z",
+  "updated_at": "2026-10-19T22:26:37Z",
   "period": {
-    "from": "2026-09-19T13:31:57Z",
-    "to": "2026-10-19T13:31:57Z"
+    "from": "2026-09-19T22:26:37Z",
+    "to": "2026-10-19T22:26:37Z"
   },
   "counts": {
     "commits": 22,
@@ -11,6 +11,14 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-19T04:46:06Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "feat(quel3): support custom target registration and instrument deployment (#431)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/cc57d64c6838c7bd340c687ef2f5933907b51667"
+    },
     {
       "date": "2026-10-19T04:43:58Z",
       "kind": "Pushed",
@@ -42,14 +50,6 @@
       "title": "fix(quel3): resolve pump-capable port roles from wiring",
       "detail": "#432",
       "url": "https://github.com/amachino/qubex/pull/432"
-    },
-    {
-      "date": "2026-10-19T04:00:44Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): support custom target registration and instrument deployment",
-      "detail": "#431",
-      "url": "https://github.com/amachino/qubex/pull/431"
     }
   ]
 }
