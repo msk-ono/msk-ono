@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-18T20:52:14Z",
+  "updated_at": "2026-10-19T04:51:00Z",
   "period": {
-    "from": "2026-09-18T20:52:14Z",
-    "to": "2026-10-18T20:52:14Z"
+    "from": "2026-09-19T04:51:00Z",
+    "to": "2026-10-19T04:51:00Z"
   },
   "counts": {
-    "commits": 20,
-    "prs": 23,
+    "commits": 22,
+    "prs": 26,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-10-16T03:37:41Z",
+      "date": "2026-10-19T04:43:57Z",
       "kind": "Merged",
-      "repo": "oqtopus-team/qdash",
-      "title": "fix(workflow): format EF chevron frequency calculation",
-      "detail": "#1592",
-      "url": "https://github.com/oqtopus-team/qdash/pull/1592"
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): support custom target registration and instrument deployment",
+      "detail": "#431",
+      "url": "https://github.com/amachino/qubex/pull/431"
     },
     {
-      "date": "2026-10-16T03:34:03Z",
+      "date": "2026-10-19T04:09:00Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): resolve pump-capable port roles from wiring",
+      "detail": "#432",
+      "url": "https://github.com/amachino/qubex/pull/432"
+    },
+    {
+      "date": "2026-10-19T04:01:49Z",
       "kind": "Opened",
-      "repo": "oqtopus-team/qdash",
-      "title": "fix(workflow): format EF chevron frequency calculation",
-      "detail": "#1592",
-      "url": "https://github.com/oqtopus-team/qdash/pull/1592"
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): resolve pump-capable port roles from wiring",
+      "detail": "#432",
+      "url": "https://github.com/amachino/qubex/pull/432"
     },
     {
-      "date": "2026-10-16T03:27:37Z",
-      "kind": "Merged",
-      "repo": "oqtopus-team/qdash",
-      "title": "fix(workflow): use half-pi inputs for EF chevron",
-      "detail": "#1591",
-      "url": "https://github.com/oqtopus-team/qdash/pull/1591"
+      "date": "2026-10-19T04:00:44Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): support custom target registration and instrument deployment",
+      "detail": "#431",
+      "url": "https://github.com/amachino/qubex/pull/431"
     },
     {
-      "date": "2026-10-16T03:21:58Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qdash",
-      "title": "fix(workflow): use control frequency for EF chevron",
-      "detail": "bugfix/ef-chevron-remove-drag-pi-inputs",
-      "url": "https://github.com/msk-ono/qdash/commit/3256fbe115f2559ebb410ffbbee75b8cec09ceba"
-    },
-    {
-      "date": "2026-10-16T03:15:39Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qdash",
-      "title": "fix(workflow): require half-pi inputs for EF chevron",
-      "detail": "bugfix/ef-chevron-remove-drag-pi-inputs",
-      "url": "https://github.com/msk-ono/qdash/commit/20a4345f33a36e234506a54736332e683b332739"
+      "date": "2026-10-19T03:59:58Z",
+      "kind": "Opened",
+      "repo": "msk-ono/qubex",
+      "title": "feat(quel3): support custom target registration and instrument deployment",
+      "detail": "#8",
+      "url": "https://github.com/msk-ono/qubex/pull/8"
     }
   ]
 }

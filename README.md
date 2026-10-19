@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 20 commits, 23 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 22 commits, 26 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
-- `Oct 16` **Merged** [fix\(workflow\): format EF chevron frequency calculation](https://github.com/oqtopus-team/qdash/pull/1592) — oqtopus\-team/qdash · \#1592
-- `Oct 16` **Opened** [fix\(workflow\): format EF chevron frequency calculation](https://github.com/oqtopus-team/qdash/pull/1592) — oqtopus\-team/qdash · \#1592
-- `Oct 16` **Merged** [fix\(workflow\): use half\-pi inputs for EF chevron](https://github.com/oqtopus-team/qdash/pull/1591) — oqtopus\-team/qdash · \#1591
-- `Oct 16` **Pushed** [fix\(workflow\): use control frequency for EF chevron](https://github.com/msk-ono/qdash/commit/3256fbe115f2559ebb410ffbbee75b8cec09ceba) — msk\-ono/qdash · bugfix/ef\-chevron\-remove\-drag\-pi\-inputs
-- `Oct 16` **Pushed** [fix\(workflow\): require half\-pi inputs for EF chevron](https://github.com/msk-ono/qdash/commit/20a4345f33a36e234506a54736332e683b332739) — msk\-ono/qdash · bugfix/ef\-chevron\-remove\-drag\-pi\-inputs
+- `Oct 19` **Merged** [feat\(quel3\): support custom target registration and instrument deployment](https://github.com/amachino/qubex/pull/431) — amachino/qubex · \#431
+- `Oct 19` **Merged** [fix\(quel3\): resolve pump\-capable port roles from wiring](https://github.com/amachino/qubex/pull/432) — amachino/qubex · \#432
+- `Oct 19` **Opened** [fix\(quel3\): resolve pump\-capable port roles from wiring](https://github.com/amachino/qubex/pull/432) — amachino/qubex · \#432
+- `Oct 19` **Opened** [feat\(quel3\): support custom target registration and instrument deployment](https://github.com/amachino/qubex/pull/431) — amachino/qubex · \#431
+- `Oct 19` **Opened** [feat\(quel3\): support custom target registration and instrument deployment](https://github.com/msk-ono/qubex/pull/8) — msk\-ono/qubex · \#8
 
-<sub>Public activity · Last 30 days · Updated 2026-10-18 20:52 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-19 04:51 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
