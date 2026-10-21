@@ -1,16 +1,32 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-20T21:42:18Z",
+  "updated_at": "2026-10-21T04:58:18Z",
   "period": {
-    "from": "2026-09-20T21:42:18Z",
-    "to": "2026-10-20T21:42:18Z"
+    "from": "2026-09-21T04:58:18Z",
+    "to": "2026-10-21T04:58:18Z"
   },
   "counts": {
-    "commits": 22,
-    "prs": 26,
+    "commits": 23,
+    "prs": 27,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-21T02:01:02Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "feat: include both hardware extras in backend",
+      "detail": "#433",
+      "url": "https://github.com/amachino/qubex/pull/433"
+    },
+    {
+      "date": "2026-10-21T01:38:01Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat: include both hardware extras in backend",
+      "detail": "#433",
+      "url": "https://github.com/amachino/qubex/pull/433"
+    },
     {
       "date": "2026-10-19T04:46:06Z",
       "kind": "Pushed",
@@ -34,22 +50,6 @@
       "title": "feat(quel3): support custom target registration and instrument deployment",
       "detail": "#431",
       "url": "https://github.com/amachino/qubex/pull/431"
-    },
-    {
-      "date": "2026-10-19T04:09:00Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): resolve pump-capable port roles from wiring",
-      "detail": "#432",
-      "url": "https://github.com/amachino/qubex/pull/432"
-    },
-    {
-      "date": "2026-10-19T04:01:49Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): resolve pump-capable port roles from wiring",
-      "detail": "#432",
-      "url": "https://github.com/amachino/qubex/pull/432"
     }
   ]
 }
