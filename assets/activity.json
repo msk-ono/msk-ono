@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-21T04:58:18Z",
+  "updated_at": "2026-10-21T11:59:48Z",
   "period": {
-    "from": "2026-09-21T04:58:18Z",
-    "to": "2026-10-21T04:58:18Z"
+    "from": "2026-09-21T11:59:48Z",
+    "to": "2026-10-21T11:59:48Z"
   },
   "counts": {
-    "commits": 23,
-    "prs": 27,
+    "commits": 24,
+    "prs": 28,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-10-21T02:01:02Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "feat: include both hardware extras in backend",
-      "detail": "#433",
-      "url": "https://github.com/amachino/qubex/pull/433"
-    },
-    {
-      "date": "2026-10-21T01:38:01Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "feat: include both hardware extras in backend",
-      "detail": "#433",
-      "url": "https://github.com/amachino/qubex/pull/433"
-    },
-    {
-      "date": "2026-10-19T04:46:06Z",
+      "date": "2026-10-21T07:44:14Z",
       "kind": "Pushed",
       "repo": "msk-ono/qubex",
-      "title": "feat(quel3): support custom target registration and instrument deployment (#431)",
+      "title": "build(deps): bump urllib3 from 2.7.0 to 2.8.0 (#439)",
       "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/cc57d64c6838c7bd340c687ef2f5933907b51667"
+      "url": "https://github.com/msk-ono/qubex/commit/c1583e62a405726317478e796cc6f31ee3d61a4a"
     },
     {
-      "date": "2026-10-19T04:43:58Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): support custom target registration and instrument deployment (#431)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/cc57d64c6838c7bd340c687ef2f5933907b51667"
-    },
-    {
-      "date": "2026-10-19T04:43:57Z",
+      "date": "2026-10-21T07:29:02Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "feat(quel3): support custom target registration and instrument deployment",
-      "detail": "#431",
-      "url": "https://github.com/amachino/qubex/pull/431"
+      "title": "fix(quel3): initialize instruments through session",
+      "detail": "#436",
+      "url": "https://github.com/amachino/qubex/pull/436"
+    },
+    {
+      "date": "2026-10-21T07:05:02Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "chore: merge develop and resolve dependency lock conflict",
+      "detail": "fix/quel3-session-initialize",
+      "url": "https://github.com/msk-ono/qubex/commit/cb7be6f75c039d235d7f4ad650e692fc1104fc24"
+    },
+    {
+      "date": "2026-10-21T07:02:55Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "build(deps): bump multidict from 6.7.1 to 6.9.1 (#437)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/9dfe0210674c9f348d3514cf71ad7b2d08b9a96b"
+    },
+    {
+      "date": "2026-10-21T06:54:46Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): initialize instruments through session",
+      "detail": "#436",
+      "url": "https://github.com/amachino/qubex/pull/436"
     }
   ]
 }
