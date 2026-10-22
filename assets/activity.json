@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-22T04:59:37Z",
+  "updated_at": "2026-10-22T12:02:35Z",
   "period": {
-    "from": "2026-09-22T04:59:37Z",
-    "to": "2026-10-22T04:59:37Z"
+    "from": "2026-09-22T12:02:35Z",
+    "to": "2026-10-22T12:02:35Z"
   },
   "counts": {
     "commits": 24,
-    "prs": 28,
+    "prs": 29,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-22T07:28:15Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "docs: clarify backend and individual hardware extras",
+      "detail": "#441",
+      "url": "https://github.com/amachino/qubex/pull/441"
+    },
     {
       "date": "2026-10-21T07:44:14Z",
       "kind": "Pushed",
@@ -18,6 +26,14 @@
       "title": "build(deps): bump urllib3 from 2.7.0 to 2.8.0 (#439)",
       "detail": "develop",
       "url": "https://github.com/msk-ono/qubex/commit/c1583e62a405726317478e796cc6f31ee3d61a4a"
+    },
+    {
+      "date": "2026-10-21T07:41:38Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "build(deps): bump urllib3 from 2.7.0 to 2.8.0 (#439)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/c1583e62a405726317478e796cc6f31ee3d61a4a"
     },
     {
       "date": "2026-10-21T07:29:02Z",
@@ -34,22 +50,6 @@
       "title": "chore: merge develop and resolve dependency lock conflict",
       "detail": "fix/quel3-session-initialize",
       "url": "https://github.com/msk-ono/qubex/commit/cb7be6f75c039d235d7f4ad650e692fc1104fc24"
-    },
-    {
-      "date": "2026-10-21T07:02:55Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "build(deps): bump multidict from 6.7.1 to 6.9.1 (#437)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/9dfe0210674c9f348d3514cf71ad7b2d08b9a96b"
-    },
-    {
-      "date": "2026-10-21T06:54:46Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): initialize instruments through session",
-      "detail": "#436",
-      "url": "https://github.com/amachino/qubex/pull/436"
     }
   ]
 }
