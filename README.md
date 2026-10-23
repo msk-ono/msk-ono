@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 24 commits, 29 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 25 commits, 29 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
+- `Oct 23` **Merged** [docs: clarify backend and individual hardware extras](https://github.com/amachino/qubex/pull/441) — amachino/qubex · \#441
 - `Oct 22` **Opened** [docs: clarify backend and individual hardware extras](https://github.com/amachino/qubex/pull/441) — amachino/qubex · \#441
 - `Oct 21` **Pushed** [build\(deps\): bump urllib3 from 2\.7\.0 to 2\.8\.0 \(\#439\)](https://github.com/msk-ono/qubex/commit/c1583e62a405726317478e796cc6f31ee3d61a4a) — msk\-ono/qubex · develop
 - `Oct 21` **Pushed** [build\(deps\): bump urllib3 from 2\.7\.0 to 2\.8\.0 \(\#439\)](https://github.com/amachino/qubex/commit/c1583e62a405726317478e796cc6f31ee3d61a4a) — amachino/qubex · develop
 - `Oct 21` **Merged** [fix\(quel3\): initialize instruments through session](https://github.com/amachino/qubex/pull/436) — amachino/qubex · \#436
-- `Oct 21` **Pushed** [chore: merge develop and resolve dependency lock conflict](https://github.com/msk-ono/qubex/commit/cb7be6f75c039d235d7f4ad650e692fc1104fc24) — msk\-ono/qubex · fix/quel3\-session\-initialize
 
-<sub>Public activity · Last 30 days · Updated 2026-10-22 21:43 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-23 05:00 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
