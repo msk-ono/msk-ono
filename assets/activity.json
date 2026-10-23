@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-23T05:00:24Z",
+  "updated_at": "2026-10-23T11:47:48Z",
   "period": {
-    "from": "2026-09-23T05:00:24Z",
-    "to": "2026-10-23T05:00:24Z"
+    "from": "2026-09-23T11:47:48Z",
+    "to": "2026-10-23T11:47:48Z"
   },
   "counts": {
     "commits": 25,
@@ -12,12 +12,28 @@
   },
   "activity": [
     {
+      "date": "2026-10-23T04:03:34Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "docs: clarify backend and individual hardware extras (#441)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/0801bb4a1128894ed1901e178fcfde74c1a57a2e"
+    },
+    {
       "date": "2026-10-23T04:03:32Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
       "title": "docs: clarify backend and individual hardware extras",
       "detail": "#441",
       "url": "https://github.com/amachino/qubex/pull/441"
+    },
+    {
+      "date": "2026-10-23T02:02:26Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "fix(quel1): enable clock health checks by default (#442)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/0ce359c05fa83140e58c9bbcfa7494edf5bcd8e3"
     },
     {
       "date": "2026-10-22T07:28:15Z",
@@ -28,28 +44,12 @@
       "url": "https://github.com/amachino/qubex/pull/441"
     },
     {
-      "date": "2026-10-21T07:44:14Z",
+      "date": "2026-10-22T07:27:48Z",
       "kind": "Pushed",
       "repo": "msk-ono/qubex",
-      "title": "build(deps): bump urllib3 from 2.7.0 to 2.8.0 (#439)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/c1583e62a405726317478e796cc6f31ee3d61a4a"
-    },
-    {
-      "date": "2026-10-21T07:41:38Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "build(deps): bump urllib3 from 2.7.0 to 2.8.0 (#439)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/c1583e62a405726317478e796cc6f31ee3d61a4a"
-    },
-    {
-      "date": "2026-10-21T07:29:02Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): initialize instruments through session",
-      "detail": "#436",
-      "url": "https://github.com/amachino/qubex/pull/436"
+      "title": "docs: clarify backend and individual hardware extras",
+      "detail": "docs/backend-hardware-extras",
+      "url": "https://github.com/msk-ono/qubex/commit/1aa36e311b38966e9cfb1b189c1c6a40670326ea"
     }
   ]
 }
