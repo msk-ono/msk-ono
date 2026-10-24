@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-24T16:02:41Z",
+  "updated_at": "2026-10-24T20:56:24Z",
   "period": {
-    "from": "2026-09-24T16:02:41Z",
-    "to": "2026-10-24T16:02:41Z"
+    "from": "2026-09-24T20:56:24Z",
+    "to": "2026-10-24T20:56:24Z"
   },
   "counts": {
     "commits": 26,
@@ -44,12 +44,12 @@
       "url": "https://github.com/amachino/qubex/pull/408"
     },
     {
-      "date": "2026-10-24T08:12:29Z",
-      "kind": "Opened",
+      "date": "2026-10-24T08:37:19Z",
+      "kind": "Pushed",
       "repo": "amachino/qubex",
-      "title": "feat(core): add scoped async timeout workaround",
-      "detail": "#446",
-      "url": "https://github.com/amachino/qubex/pull/446"
+      "title": "test: simplify optional backend dependency setup",
+      "detail": "test/optional-backend-dependencies",
+      "url": "https://github.com/amachino/qubex/commit/2b6137a44ddd7ec8e174caf5f5590b5bcb811fea"
     }
   ]
 }
