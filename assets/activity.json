@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-24T04:45:36Z",
+  "updated_at": "2026-10-24T11:12:57Z",
   "period": {
-    "from": "2026-09-24T04:45:36Z",
-    "to": "2026-10-24T04:45:36Z"
+    "from": "2026-09-24T11:12:57Z",
+    "to": "2026-10-24T11:12:57Z"
   },
   "counts": {
-    "commits": 25,
-    "prs": 29,
+    "commits": 26,
+    "prs": 31,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-10-23T04:03:34Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "docs: clarify backend and individual hardware extras (#441)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/0801bb4a1128894ed1901e178fcfde74c1a57a2e"
-    },
-    {
-      "date": "2026-10-23T04:03:32Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "docs: clarify backend and individual hardware extras",
-      "detail": "#441",
-      "url": "https://github.com/amachino/qubex/pull/441"
-    },
-    {
-      "date": "2026-10-23T02:02:26Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "fix(quel1): enable clock health checks by default (#442)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/0ce359c05fa83140e58c9bbcfa7494edf5bcd8e3"
-    },
-    {
-      "date": "2026-10-22T07:28:15Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "docs: clarify backend and individual hardware extras",
-      "detail": "#441",
-      "url": "https://github.com/amachino/qubex/pull/441"
-    },
-    {
-      "date": "2026-10-22T07:27:48Z",
+      "date": "2026-10-24T09:57:06Z",
       "kind": "Pushed",
       "repo": "msk-ono/qubex",
-      "title": "docs: clarify backend and individual hardware extras",
-      "detail": "docs/backend-hardware-extras",
-      "url": "https://github.com/msk-ono/qubex/commit/1aa36e311b38966e9cfb1b189c1c6a40670326ea"
+      "title": "ci: use a fixed Python 3.11 through 3.14 matrix",
+      "detail": "chore/python-311-support",
+      "url": "https://github.com/msk-ono/qubex/commit/b4536e3f8cc845f64ffcb4168d64836852b424e4"
+    },
+    {
+      "date": "2026-10-24T09:51:24Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "chore: require Python 3.11 and test through 3.14",
+      "detail": "#447",
+      "url": "https://github.com/amachino/qubex/pull/447"
+    },
+    {
+      "date": "2026-10-24T09:13:05Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "test: support pytest without optional backend dependencies (#408)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/35a0a236fd743d815782257d49a6966c44caad10"
+    },
+    {
+      "date": "2026-10-24T09:13:04Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "test: support pytest without optional backend dependencies",
+      "detail": "#408",
+      "url": "https://github.com/amachino/qubex/pull/408"
+    },
+    {
+      "date": "2026-10-24T08:12:29Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(core): add scoped async timeout workaround",
+      "detail": "#446",
+      "url": "https://github.com/amachino/qubex/pull/446"
     }
   ]
 }
