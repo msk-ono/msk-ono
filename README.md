@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Oct 24` **Merged** [test: support pytest without optional backend dependencies](https://github.com/amachino/qubex/pull/408) — amachino/qubex · \#408
 - `Oct 24` **Opened** [feat\(core\): add scoped async timeout workaround](https://github.com/amachino/qubex/pull/446) — amachino/qubex · \#446
 
-<sub>Public activity · Last 30 days · Updated 2026-10-24 11:12 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-24 16:02 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
