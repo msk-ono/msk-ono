@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Oct 24` **Merged** [test: support pytest without optional backend dependencies](https://github.com/amachino/qubex/pull/408) — amachino/qubex · \#408
 - `Oct 24` **Pushed** [test: simplify optional backend dependency setup](https://github.com/amachino/qubex/commit/2b6137a44ddd7ec8e174caf5f5590b5bcb811fea) — amachino/qubex · test/optional\-backend\-dependencies
 
-<sub>Public activity · Last 30 days · Updated 2026-10-24 20:56 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-25 04:52 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
