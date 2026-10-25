@@ -21,13 +21,13 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 
 **Recent activity**
 
+- `Oct 24` **Pushed** [test: support pytest without optional backend dependencies \(\#408\)](https://github.com/msk-ono/qubex/commit/35a0a236fd743d815782257d49a6966c44caad10) — msk\-ono/qubex · develop
 - `Oct 24` **Pushed** [ci: use a fixed Python 3\.11 through 3\.14 matrix](https://github.com/msk-ono/qubex/commit/b4536e3f8cc845f64ffcb4168d64836852b424e4) — msk\-ono/qubex · chore/python\-311\-support
 - `Oct 24` **Opened** [chore: require Python 3\.11 and test through 3\.14](https://github.com/amachino/qubex/pull/447) — amachino/qubex · \#447
 - `Oct 24` **Pushed** [test: support pytest without optional backend dependencies \(\#408\)](https://github.com/amachino/qubex/commit/35a0a236fd743d815782257d49a6966c44caad10) — amachino/qubex · develop
 - `Oct 24` **Merged** [test: support pytest without optional backend dependencies](https://github.com/amachino/qubex/pull/408) — amachino/qubex · \#408
-- `Oct 24` **Pushed** [test: simplify optional backend dependency setup](https://github.com/amachino/qubex/commit/2b6137a44ddd7ec8e174caf5f5590b5bcb811fea) — amachino/qubex · test/optional\-backend\-dependencies
 
-<sub>Public activity · Last 30 days · Updated 2026-10-25 11:42 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-25 16:31 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

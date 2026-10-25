@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-25T11:42:57Z",
+  "updated_at": "2026-10-25T16:31:37Z",
   "period": {
-    "from": "2026-09-25T11:42:57Z",
-    "to": "2026-10-25T11:42:57Z"
+    "from": "2026-09-25T16:31:37Z",
+    "to": "2026-10-25T16:31:37Z"
   },
   "counts": {
     "commits": 26,
@@ -11,6 +11,14 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-24T12:06:46Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "test: support pytest without optional backend dependencies (#408)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/35a0a236fd743d815782257d49a6966c44caad10"
+    },
     {
       "date": "2026-10-24T09:57:06Z",
       "kind": "Pushed",
@@ -42,14 +50,6 @@
       "title": "test: support pytest without optional backend dependencies",
       "detail": "#408",
       "url": "https://github.com/amachino/qubex/pull/408"
-    },
-    {
-      "date": "2026-10-24T08:37:19Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "test: simplify optional backend dependency setup",
-      "detail": "test/optional-backend-dependencies",
-      "url": "https://github.com/amachino/qubex/commit/2b6137a44ddd7ec8e174caf5f5590b5bcb811fea"
     }
   ]
 }
