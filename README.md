@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 26 commits, 31 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 28 commits, 32 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
-- `Oct 24` **Pushed** [test: support pytest without optional backend dependencies \(\#408\)](https://github.com/msk-ono/qubex/commit/35a0a236fd743d815782257d49a6966c44caad10) — msk\-ono/qubex · develop
-- `Oct 24` **Pushed** [ci: use a fixed Python 3\.11 through 3\.14 matrix](https://github.com/msk-ono/qubex/commit/b4536e3f8cc845f64ffcb4168d64836852b424e4) — msk\-ono/qubex · chore/python\-311\-support
-- `Oct 24` **Opened** [chore: require Python 3\.11 and test through 3\.14](https://github.com/amachino/qubex/pull/447) — amachino/qubex · \#447
-- `Oct 24` **Pushed** [test: support pytest without optional backend dependencies \(\#408\)](https://github.com/amachino/qubex/commit/35a0a236fd743d815782257d49a6966c44caad10) — amachino/qubex · develop
-- `Oct 24` **Merged** [test: support pytest without optional backend dependencies](https://github.com/amachino/qubex/pull/408) — amachino/qubex · \#408
+- `Oct 26` **Pushed** [fix\(quel3\): reuse instruments with minimum frequency margins \(\#449\)](https://github.com/amachino/qubex/commit/3214012d08b1c5543cdff93a685f64229c8ec484) — amachino/qubex · develop
+- `Oct 26` **Merged** [fix\(quel3\): reuse instruments with minimum frequency margins](https://github.com/amachino/qubex/pull/449) — amachino/qubex · \#449
+- `Oct 26` **Opened** [fix\(quel3\): reuse instruments with minimum frequency margins](https://github.com/amachino/qubex/pull/449) — amachino/qubex · \#449
+- `Oct 26` **Pushed** [fix: improve CPMG noise spectroscopy planning and diagnostics \(\#445\)](https://github.com/amachino/qubex/commit/4e38bf349ef5725e51ba9de803b8ac09fc66581e) — amachino/qubex · develop
+- `Oct 26` **Pushed** [feat: add tqdm progress to quantum efficiency measurement \(\#448\)](https://github.com/amachino/qubex/commit/753d00cd327397696a18b336e953d7d31721590d) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-10-25 20:56 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-26 04:56 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

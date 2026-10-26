@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-25T20:56:41Z",
+  "updated_at": "2026-10-26T04:56:43Z",
   "period": {
-    "from": "2026-09-25T20:56:41Z",
-    "to": "2026-10-25T20:56:41Z"
+    "from": "2026-09-26T04:56:43Z",
+    "to": "2026-10-26T04:56:43Z"
   },
   "counts": {
-    "commits": 26,
-    "prs": 31,
+    "commits": 28,
+    "prs": 32,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-10-24T12:06:46Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "test: support pytest without optional backend dependencies (#408)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/35a0a236fd743d815782257d49a6966c44caad10"
-    },
-    {
-      "date": "2026-10-24T09:57:06Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "ci: use a fixed Python 3.11 through 3.14 matrix",
-      "detail": "chore/python-311-support",
-      "url": "https://github.com/msk-ono/qubex/commit/b4536e3f8cc845f64ffcb4168d64836852b424e4"
-    },
-    {
-      "date": "2026-10-24T09:51:24Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "chore: require Python 3.11 and test through 3.14",
-      "detail": "#447",
-      "url": "https://github.com/amachino/qubex/pull/447"
-    },
-    {
-      "date": "2026-10-24T09:13:05Z",
+      "date": "2026-10-26T04:40:47Z",
       "kind": "Pushed",
       "repo": "amachino/qubex",
-      "title": "test: support pytest without optional backend dependencies (#408)",
+      "title": "fix(quel3): reuse instruments with minimum frequency margins (#449)",
       "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/35a0a236fd743d815782257d49a6966c44caad10"
+      "url": "https://github.com/amachino/qubex/commit/3214012d08b1c5543cdff93a685f64229c8ec484"
     },
     {
-      "date": "2026-10-24T09:13:04Z",
+      "date": "2026-10-26T04:40:46Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "test: support pytest without optional backend dependencies",
-      "detail": "#408",
-      "url": "https://github.com/amachino/qubex/pull/408"
+      "title": "fix(quel3): reuse instruments with minimum frequency margins",
+      "detail": "#449",
+      "url": "https://github.com/amachino/qubex/pull/449"
+    },
+    {
+      "date": "2026-10-26T04:09:25Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): reuse instruments with minimum frequency margins",
+      "detail": "#449",
+      "url": "https://github.com/amachino/qubex/pull/449"
+    },
+    {
+      "date": "2026-10-26T01:11:36Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "fix: improve CPMG noise spectroscopy planning and diagnostics (#445)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/4e38bf349ef5725e51ba9de803b8ac09fc66581e"
+    },
+    {
+      "date": "2026-10-26T01:06:39Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "feat: add tqdm progress to quantum efficiency measurement (#448)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/753d00cd327397696a18b336e953d7d31721590d"
     }
   ]
 }
