@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-26T13:15:01Z",
+  "updated_at": "2026-10-26T22:44:41Z",
   "period": {
-    "from": "2026-09-26T13:15:01Z",
-    "to": "2026-10-26T13:15:01Z"
+    "from": "2026-09-26T22:44:41Z",
+    "to": "2026-10-26T22:44:41Z"
   },
   "counts": {
     "commits": 29,
@@ -11,6 +11,14 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-26T13:00:19Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "fix(measurement): close IQ plotters in sweep cleanup",
+      "detail": "chore/update-kaleido-plotly",
+      "url": "https://github.com/msk-ono/qubex/commit/67caa82a5fb8b9a737c719467d5cb11c19c6519b"
+    },
     {
       "date": "2026-10-26T08:36:51Z",
       "kind": "Pushed",
@@ -28,28 +36,20 @@
       "url": "https://github.com/amachino/qubex/pull/447"
     },
     {
+      "date": "2026-10-26T08:35:33Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "fix: always return CPMG result figures (#451)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/d3ef46d691be04b05a755d35b78f8611bf7a53fc"
+    },
+    {
       "date": "2026-10-26T07:54:18Z",
       "kind": "Pushed",
       "repo": "msk-ono/qubex",
       "title": "fix(python): retain Python 3.10 support",
       "detail": "chore/python-311-support",
       "url": "https://github.com/msk-ono/qubex/commit/63ddc41eb59d824f1043e661c8565c0dc2924f5a"
-    },
-    {
-      "date": "2026-10-26T04:40:47Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): reuse instruments with minimum frequency margins (#449)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/3214012d08b1c5543cdff93a685f64229c8ec484"
-    },
-    {
-      "date": "2026-10-26T04:40:46Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): reuse instruments with minimum frequency margins",
-      "detail": "#449",
-      "url": "https://github.com/amachino/qubex/pull/449"
     }
   ]
 }
