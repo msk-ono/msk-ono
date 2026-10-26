@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 28 commits, 32 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 29 commits, 32 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
+- `Oct 26` **Pushed** [chore: support Python 3\.13 and 3\.14 while retaining 3\.10 \(\#447\)](https://github.com/amachino/qubex/commit/17e4aac0b9a0b1edb6f3938921a88645f307ab55) — amachino/qubex · develop
+- `Oct 26` **Merged** [chore: support Python 3\.13 and 3\.14 while retaining 3\.10](https://github.com/amachino/qubex/pull/447) — amachino/qubex · \#447
+- `Oct 26` **Pushed** [fix\(python\): retain Python 3\.10 support](https://github.com/msk-ono/qubex/commit/63ddc41eb59d824f1043e661c8565c0dc2924f5a) — msk\-ono/qubex · chore/python\-311\-support
 - `Oct 26` **Pushed** [fix\(quel3\): reuse instruments with minimum frequency margins \(\#449\)](https://github.com/amachino/qubex/commit/3214012d08b1c5543cdff93a685f64229c8ec484) — amachino/qubex · develop
 - `Oct 26` **Merged** [fix\(quel3\): reuse instruments with minimum frequency margins](https://github.com/amachino/qubex/pull/449) — amachino/qubex · \#449
-- `Oct 26` **Opened** [fix\(quel3\): reuse instruments with minimum frequency margins](https://github.com/amachino/qubex/pull/449) — amachino/qubex · \#449
-- `Oct 26` **Pushed** [fix: improve CPMG noise spectroscopy planning and diagnostics \(\#445\)](https://github.com/amachino/qubex/commit/4e38bf349ef5725e51ba9de803b8ac09fc66581e) — amachino/qubex · develop
-- `Oct 26` **Pushed** [feat: add tqdm progress to quantum efficiency measurement \(\#448\)](https://github.com/amachino/qubex/commit/753d00cd327397696a18b336e953d7d31721590d) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-10-26 04:56 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-26 13:15 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
