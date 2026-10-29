@@ -1,16 +1,32 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-29T05:56:55Z",
+  "updated_at": "2026-10-29T13:15:02Z",
   "period": {
-    "from": "2026-09-29T05:56:55Z",
-    "to": "2026-10-29T05:56:55Z"
+    "from": "2026-09-29T13:15:02Z",
+    "to": "2026-10-29T13:15:02Z"
   },
   "counts": {
-    "commits": 28,
-    "prs": 30,
+    "commits": 29,
+    "prs": 31,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-29T11:15:45Z",
+      "kind": "Merged",
+      "repo": "oqtopus-team/qdash",
+      "title": "feat(workflow): add coupling strength calibration task",
+      "detail": "#1704",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1704"
+    },
+    {
+      "date": "2026-10-29T06:39:23Z",
+      "kind": "Opened",
+      "repo": "oqtopus-team/qdash",
+      "title": "feat(workflow): add coupling strength calibration task",
+      "detail": "#1704",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1704"
+    },
     {
       "date": "2026-10-28T06:56:45Z",
       "kind": "Pushed",
@@ -34,22 +50,6 @@
       "title": "fix(measurement): close IQ plotters in sweep cleanup",
       "detail": "chore/update-kaleido-plotly",
       "url": "https://github.com/msk-ono/qubex/commit/67caa82a5fb8b9a737c719467d5cb11c19c6519b"
-    },
-    {
-      "date": "2026-10-26T08:36:51Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "chore: support Python 3.13 and 3.14 while retaining 3.10 (#447)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/17e4aac0b9a0b1edb6f3938921a88645f307ab55"
-    },
-    {
-      "date": "2026-10-26T08:36:50Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "chore: support Python 3.13 and 3.14 while retaining 3.10",
-      "detail": "#447",
-      "url": "https://github.com/amachino/qubex/pull/447"
     }
   ]
 }
