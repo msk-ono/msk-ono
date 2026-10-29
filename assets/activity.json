@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-28T22:40:28Z",
+  "updated_at": "2026-10-29T05:56:55Z",
   "period": {
-    "from": "2026-09-28T22:40:28Z",
-    "to": "2026-10-28T22:40:28Z"
+    "from": "2026-09-29T05:56:55Z",
+    "to": "2026-10-29T05:56:55Z"
   },
   "counts": {
-    "commits": 29,
-    "prs": 32,
+    "commits": 28,
+    "prs": 30,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-28T06:56:45Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "feat(experiment): support temporary capture delays in nanoseconds (#387)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/c20de187dccc32d86316b279ebcf99b68fafbd50"
+    },
     {
       "date": "2026-10-27T07:53:02Z",
       "kind": "Pushed",
@@ -42,14 +50,6 @@
       "title": "chore: support Python 3.13 and 3.14 while retaining 3.10",
       "detail": "#447",
       "url": "https://github.com/amachino/qubex/pull/447"
-    },
-    {
-      "date": "2026-10-26T08:35:33Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "fix: always return CPMG result figures (#451)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/d3ef46d691be04b05a755d35b78f8611bf7a53fc"
     }
   ]
 }
