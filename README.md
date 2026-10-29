@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Oct 27` **Pushed** [feat: add direct readout MIST characterization \(\#450\)](https://github.com/amachino/qubex/commit/e7d96e4d922b1d335f1e400947cdf7b1e0c9201d) — amachino/qubex · develop
 - `Oct 26` **Pushed** [fix\(measurement\): close IQ plotters in sweep cleanup](https://github.com/msk-ono/qubex/commit/67caa82a5fb8b9a737c719467d5cb11c19c6519b) — msk\-ono/qubex · chore/update\-kaleido\-plotly
 
-<sub>Public activity · Last 30 days · Updated 2026-10-29 13:15 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-29 22:49 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
