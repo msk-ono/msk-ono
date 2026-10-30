@@ -1,16 +1,32 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-29T22:49:57Z",
+  "updated_at": "2026-10-30T05:58:05Z",
   "period": {
-    "from": "2026-09-29T22:49:57Z",
-    "to": "2026-10-29T22:49:57Z"
+    "from": "2026-09-30T05:58:05Z",
+    "to": "2026-10-30T05:58:05Z"
   },
   "counts": {
-    "commits": 29,
-    "prs": 31,
+    "commits": 26,
+    "prs": 28,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-10-30T05:45:48Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "fix(ci): report pytest results and reject skipped tests",
+      "detail": "#453",
+      "url": "https://github.com/amachino/qubex/pull/453"
+    },
+    {
+      "date": "2026-10-30T03:53:08Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "fix(ci): report pytest results and reject skipped tests",
+      "detail": "#453",
+      "url": "https://github.com/amachino/qubex/pull/453"
+    },
     {
       "date": "2026-10-29T11:15:45Z",
       "kind": "Merged",
@@ -34,22 +50,6 @@
       "title": "feat(experiment): support temporary capture delays in nanoseconds (#387)",
       "detail": "develop",
       "url": "https://github.com/amachino/qubex/commit/c20de187dccc32d86316b279ebcf99b68fafbd50"
-    },
-    {
-      "date": "2026-10-27T07:53:02Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "feat: add direct readout MIST characterization (#450)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/e7d96e4d922b1d335f1e400947cdf7b1e0c9201d"
-    },
-    {
-      "date": "2026-10-26T13:00:19Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix(measurement): close IQ plotters in sweep cleanup",
-      "detail": "chore/update-kaleido-plotly",
-      "url": "https://github.com/msk-ono/qubex/commit/67caa82a5fb8b9a737c719467d5cb11c19c6519b"
     }
   ]
 }

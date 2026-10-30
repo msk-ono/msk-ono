@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 29 commits, 31 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 26 commits, 28 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
+- `Oct 30` **Merged** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/amachino/qubex/pull/453) — amachino/qubex · \#453
+- `Oct 30` **Opened** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/amachino/qubex/pull/453) — amachino/qubex · \#453
 - `Oct 29` **Merged** [feat\(workflow\): add coupling strength calibration task](https://github.com/oqtopus-team/qdash/pull/1704) — oqtopus\-team/qdash · \#1704
 - `Oct 29` **Opened** [feat\(workflow\): add coupling strength calibration task](https://github.com/oqtopus-team/qdash/pull/1704) — oqtopus\-team/qdash · \#1704
 - `Oct 28` **Pushed** [feat\(experiment\): support temporary capture delays in nanoseconds \(\#387\)](https://github.com/amachino/qubex/commit/c20de187dccc32d86316b279ebcf99b68fafbd50) — amachino/qubex · develop
-- `Oct 27` **Pushed** [feat: add direct readout MIST characterization \(\#450\)](https://github.com/amachino/qubex/commit/e7d96e4d922b1d335f1e400947cdf7b1e0c9201d) — amachino/qubex · develop
-- `Oct 26` **Pushed** [fix\(measurement\): close IQ plotters in sweep cleanup](https://github.com/msk-ono/qubex/commit/67caa82a5fb8b9a737c719467d5cb11c19c6519b) — msk\-ono/qubex · chore/update\-kaleido\-plotly
 
-<sub>Public activity · Last 30 days · Updated 2026-10-29 22:49 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-30 05:58 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
