@@ -24,10 +24,10 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Oct 30` **Merged** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/amachino/qubex/pull/453) — amachino/qubex · \#453
 - `Oct 30` **Opened** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/amachino/qubex/pull/453) — amachino/qubex · \#453
 - `Oct 29` **Merged** [feat\(workflow\): add coupling strength calibration task](https://github.com/oqtopus-team/qdash/pull/1704) — oqtopus\-team/qdash · \#1704
+- `Oct 29` **Pushed** [fix\(api\): derive coupling heatmap routing from metrics config](https://github.com/msk-ono/qdash/commit/c194a1be79e550f936a31f8bd490af6f5a2dc55f) — msk\-ono/qdash · feature/qubex\-coupling\-strength
 - `Oct 29` **Opened** [feat\(workflow\): add coupling strength calibration task](https://github.com/oqtopus-team/qdash/pull/1704) — oqtopus\-team/qdash · \#1704
-- `Oct 28` **Pushed** [feat\(experiment\): support temporary capture delays in nanoseconds \(\#387\)](https://github.com/amachino/qubex/commit/c20de187dccc32d86316b279ebcf99b68fafbd50) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-10-30 05:58 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-30 13:07 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
