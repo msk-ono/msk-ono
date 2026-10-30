@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-10-30T13:07:06Z",
+  "updated_at": "2026-10-30T22:27:28Z",
   "period": {
-    "from": "2026-09-30T13:07:06Z",
-    "to": "2026-10-30T13:07:06Z"
+    "from": "2026-09-30T22:27:28Z",
+    "to": "2026-10-30T22:27:28Z"
   },
   "counts": {
     "commits": 26,
@@ -36,20 +36,20 @@
       "url": "https://github.com/oqtopus-team/qdash/pull/1704"
     },
     {
+      "date": "2026-10-29T07:37:19Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qdash",
+      "title": "feat(workflow): use coupling strength task in characterization",
+      "detail": "feature/qubex-coupling-strength",
+      "url": "https://github.com/msk-ono/qdash/commit/2bb73e4a27d331ef8251ba31e3a2affc96ca047d"
+    },
+    {
       "date": "2026-10-29T07:16:42Z",
       "kind": "Pushed",
       "repo": "msk-ono/qdash",
       "title": "fix(api): derive coupling heatmap routing from metrics config",
       "detail": "feature/qubex-coupling-strength",
       "url": "https://github.com/msk-ono/qdash/commit/c194a1be79e550f936a31f8bd490af6f5a2dc55f"
-    },
-    {
-      "date": "2026-10-29T06:39:23Z",
-      "kind": "Opened",
-      "repo": "oqtopus-team/qdash",
-      "title": "feat(workflow): add coupling strength calibration task",
-      "detail": "#1704",
-      "url": "https://github.com/oqtopus-team/qdash/pull/1704"
     }
   ]
 }
