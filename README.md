@@ -21,13 +21,13 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 
 **Recent activity**
 
+- `Oct 30` **Pushed** [fix\(ci\): report pytest results and reject skipped tests \(\#453\)](https://github.com/amachino/qubex/commit/eab444ff9f24d487cc12b6f87bd2c1ebe0d8c36e) — amachino/qubex · develop
 - `Oct 30` **Merged** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/amachino/qubex/pull/453) — amachino/qubex · \#453
+- `Oct 30` **Pushed** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/msk-ono/qubex/commit/3d8adb266cd550985dc1df0a912be040026f10af) — msk\-ono/qubex · ci\-no\-test\-skip
+- `Oct 30` **Pushed** [feat\(ci\): summarize pytest results in logs and job summary](https://github.com/msk-ono/qubex/commit/1275f54bee96741b557dff650350fbab9af221be) — msk\-ono/qubex · ci\-no\-test\-skip
 - `Oct 30` **Opened** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/amachino/qubex/pull/453) — amachino/qubex · \#453
-- `Oct 29` **Merged** [feat\(workflow\): add coupling strength calibration task](https://github.com/oqtopus-team/qdash/pull/1704) — oqtopus\-team/qdash · \#1704
-- `Oct 29` **Pushed** [feat\(workflow\): use coupling strength task in characterization](https://github.com/msk-ono/qdash/commit/2bb73e4a27d331ef8251ba31e3a2affc96ca047d) — msk\-ono/qdash · feature/qubex\-coupling\-strength
-- `Oct 29` **Pushed** [fix\(api\): derive coupling heatmap routing from metrics config](https://github.com/msk-ono/qdash/commit/c194a1be79e550f936a31f8bd490af6f5a2dc55f) — msk\-ono/qdash · feature/qubex\-coupling\-strength
 
-<sub>Public activity · Last 30 days · Updated 2026-10-31 12:44 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-10-31 21:41 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
