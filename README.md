@@ -16,7 +16,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 26 commits, 28 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 25 commits, 27 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Oct 30` **Pushed** [feat\(ci\): summarize pytest results in logs and job summary](https://github.com/msk-ono/qubex/commit/1275f54bee96741b557dff650350fbab9af221be) — msk\-ono/qubex · ci\-no\-test\-skip
 - `Oct 30` **Opened** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/amachino/qubex/pull/453) — amachino/qubex · \#453
 
-<sub>Public activity · Last 30 days · Updated 2026-10-31 21:41 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-01 06:19 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
