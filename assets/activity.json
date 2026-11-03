@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-03T06:56:59Z",
+  "updated_at": "2026-11-03T19:34:04Z",
   "period": {
-    "from": "2026-10-04T06:56:59Z",
-    "to": "2026-11-03T06:56:59Z"
+    "from": "2026-10-04T19:34:04Z",
+    "to": "2026-11-03T19:34:04Z"
   },
   "counts": {
     "commits": 24,
-    "prs": 25,
+    "prs": 26,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-03T10:14:21Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "fix(ci): correct docs triggers and deployment permissions; update Actions",
+      "detail": "#454",
+      "url": "https://github.com/amachino/qubex/pull/454"
+    },
     {
       "date": "2026-10-30T05:45:49Z",
       "kind": "Pushed",
@@ -42,14 +50,6 @@
       "title": "feat(ci): summarize pytest results in logs and job summary",
       "detail": "ci-no-test-skip",
       "url": "https://github.com/msk-ono/qubex/commit/1275f54bee96741b557dff650350fbab9af221be"
-    },
-    {
-      "date": "2026-10-30T03:53:08Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "fix(ci): report pytest results and reject skipped tests",
-      "detail": "#453",
-      "url": "https://github.com/amachino/qubex/pull/453"
     }
   ]
 }
