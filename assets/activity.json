@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-03T19:34:04Z",
+  "updated_at": "2026-11-04T06:38:14Z",
   "period": {
-    "from": "2026-10-04T19:34:04Z",
-    "to": "2026-11-03T19:34:04Z"
+    "from": "2026-10-05T06:38:14Z",
+    "to": "2026-11-04T06:38:14Z"
   },
   "counts": {
     "commits": 24,
@@ -11,6 +11,14 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-04T01:08:59Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "fix(ci): report pytest results and reject skipped tests (#453)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/eab444ff9f24d487cc12b6f87bd2c1ebe0d8c36e"
+    },
     {
       "date": "2026-11-03T10:14:21Z",
       "kind": "Opened",
@@ -42,14 +50,6 @@
       "title": "fix(ci): report pytest results and reject skipped tests",
       "detail": "ci-no-test-skip",
       "url": "https://github.com/msk-ono/qubex/commit/3d8adb266cd550985dc1df0a912be040026f10af"
-    },
-    {
-      "date": "2026-10-30T04:47:10Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "feat(ci): summarize pytest results in logs and job summary",
-      "detail": "ci-no-test-skip",
-      "url": "https://github.com/msk-ono/qubex/commit/1275f54bee96741b557dff650350fbab9af221be"
     }
   ]
 }
