@@ -22,12 +22,12 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 **Recent activity**
 
 - `Nov 04` **Pushed** [fix\(ci\): report pytest results and reject skipped tests \(\#453\)](https://github.com/msk-ono/qubex/commit/eab444ff9f24d487cc12b6f87bd2c1ebe0d8c36e) — msk\-ono/qubex · develop
+- `Nov 04` **Pushed** [feat\(execution\): chart executions per day instead of the duration breakdown \(\#1731\)](https://github.com/msk-ono/qdash/commit/255bb12d3f8b060fb41f6f0ab91b7e1eaa0c2f5f) — msk\-ono/qdash · develop
 - `Nov 03` **Opened** [fix\(ci\): correct docs triggers and deployment permissions; update Actions](https://github.com/amachino/qubex/pull/454) — amachino/qubex · \#454
 - `Oct 30` **Pushed** [fix\(ci\): report pytest results and reject skipped tests \(\#453\)](https://github.com/amachino/qubex/commit/eab444ff9f24d487cc12b6f87bd2c1ebe0d8c36e) — amachino/qubex · develop
 - `Oct 30` **Merged** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/amachino/qubex/pull/453) — amachino/qubex · \#453
-- `Oct 30` **Pushed** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/msk-ono/qubex/commit/3d8adb266cd550985dc1df0a912be040026f10af) — msk\-ono/qubex · ci\-no\-test\-skip
 
-<sub>Public activity · Last 30 days · Updated 2026-11-04 06:38 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-04 19:52 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
