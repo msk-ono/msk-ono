@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-05T06:57:56Z",
+  "updated_at": "2026-11-05T20:03:40Z",
   "period": {
-    "from": "2026-10-06T06:57:56Z",
-    "to": "2026-11-05T06:57:56Z"
+    "from": "2026-10-06T20:03:40Z",
+    "to": "2026-11-05T20:03:40Z"
   },
   "counts": {
     "commits": 25,
@@ -11,6 +11,14 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-05T05:42:54Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "feat: add continuous-time GEF relaxation characterization (#457)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/e3eac68c97ef76ff30f2afea49851ee0614dd800"
+    },
     {
       "date": "2026-11-05T05:36:22Z",
       "kind": "Opened",
@@ -42,14 +50,6 @@
       "title": "feat(quel3): reuse sessions for uniform split triggers",
       "detail": "#456",
       "url": "https://github.com/amachino/qubex/pull/456"
-    },
-    {
-      "date": "2026-11-05T03:56:36Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): limit returned capture samples per trigger",
-      "detail": "#455",
-      "url": "https://github.com/amachino/qubex/pull/455"
     }
   ]
 }
