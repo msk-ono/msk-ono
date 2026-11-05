@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 24 commits, 26 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 25 commits, 29 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
-- `Nov 04` **Pushed** [fix\(ci\): report pytest results and reject skipped tests \(\#453\)](https://github.com/msk-ono/qubex/commit/eab444ff9f24d487cc12b6f87bd2c1ebe0d8c36e) — msk\-ono/qubex · develop
-- `Nov 04` **Pushed** [feat\(execution\): chart executions per day instead of the duration breakdown \(\#1731\)](https://github.com/msk-ono/qdash/commit/255bb12d3f8b060fb41f6f0ab91b7e1eaa0c2f5f) — msk\-ono/qdash · develop
-- `Nov 03` **Opened** [fix\(ci\): correct docs triggers and deployment permissions; update Actions](https://github.com/amachino/qubex/pull/454) — amachino/qubex · \#454
-- `Oct 30` **Pushed** [fix\(ci\): report pytest results and reject skipped tests \(\#453\)](https://github.com/amachino/qubex/commit/eab444ff9f24d487cc12b6f87bd2c1ebe0d8c36e) — amachino/qubex · develop
-- `Oct 30` **Merged** [fix\(ci\): report pytest results and reject skipped tests](https://github.com/amachino/qubex/pull/453) — amachino/qubex · \#453
+- `Nov 05` **Opened** [feat\(quel3\): compress long constant\-envelope waveforms](https://github.com/amachino/qubex/pull/458) — amachino/qubex · \#458
+- `Nov 05` **Merged** [feat\(quel3\): limit returned capture samples per trigger](https://github.com/amachino/qubex/pull/455) — amachino/qubex · \#455
+- `Nov 05` **Pushed** [test\(quel3\): cover split session failures and cancellation](https://github.com/amachino/qubex/commit/ea824467d408f8511e58b5d7dc0dcc613bab01dc) — amachino/qubex · feature/quel3\-repeat\-split\-triggers
+- `Nov 05` **Opened** [feat\(quel3\): reuse sessions for uniform split triggers](https://github.com/amachino/qubex/pull/456) — amachino/qubex · \#456
+- `Nov 05` **Opened** [feat\(quel3\): limit returned capture samples per trigger](https://github.com/amachino/qubex/pull/455) — amachino/qubex · \#455
 
-<sub>Public activity · Last 30 days · Updated 2026-11-04 19:52 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-05 06:57 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

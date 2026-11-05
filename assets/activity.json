@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-04T19:52:04Z",
+  "updated_at": "2026-11-05T06:57:56Z",
   "period": {
-    "from": "2026-10-05T19:52:04Z",
-    "to": "2026-11-04T19:52:04Z"
+    "from": "2026-10-06T06:57:56Z",
+    "to": "2026-11-05T06:57:56Z"
   },
   "counts": {
-    "commits": 24,
-    "prs": 26,
+    "commits": 25,
+    "prs": 29,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-11-04T01:08:59Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix(ci): report pytest results and reject skipped tests (#453)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/eab444ff9f24d487cc12b6f87bd2c1ebe0d8c36e"
-    },
-    {
-      "date": "2026-11-04T01:04:04Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qdash",
-      "title": "feat(execution): chart executions per day instead of the duration breakdown (#1731)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qdash/commit/255bb12d3f8b060fb41f6f0ab91b7e1eaa0c2f5f"
-    },
-    {
-      "date": "2026-11-03T10:14:21Z",
+      "date": "2026-11-05T05:36:22Z",
       "kind": "Opened",
       "repo": "amachino/qubex",
-      "title": "fix(ci): correct docs triggers and deployment permissions; update Actions",
-      "detail": "#454",
-      "url": "https://github.com/amachino/qubex/pull/454"
+      "title": "feat(quel3): compress long constant-envelope waveforms",
+      "detail": "#458",
+      "url": "https://github.com/amachino/qubex/pull/458"
     },
     {
-      "date": "2026-10-30T05:45:49Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "fix(ci): report pytest results and reject skipped tests (#453)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/eab444ff9f24d487cc12b6f87bd2c1ebe0d8c36e"
-    },
-    {
-      "date": "2026-10-30T05:45:48Z",
+      "date": "2026-11-05T04:56:17Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "fix(ci): report pytest results and reject skipped tests",
-      "detail": "#453",
-      "url": "https://github.com/amachino/qubex/pull/453"
+      "title": "feat(quel3): limit returned capture samples per trigger",
+      "detail": "#455",
+      "url": "https://github.com/amachino/qubex/pull/455"
+    },
+    {
+      "date": "2026-11-05T04:29:10Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "test(quel3): cover split session failures and cancellation",
+      "detail": "feature/quel3-repeat-split-triggers",
+      "url": "https://github.com/amachino/qubex/commit/ea824467d408f8511e58b5d7dc0dcc613bab01dc"
+    },
+    {
+      "date": "2026-11-05T03:56:39Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): reuse sessions for uniform split triggers",
+      "detail": "#456",
+      "url": "https://github.com/amachino/qubex/pull/456"
+    },
+    {
+      "date": "2026-11-05T03:56:36Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): limit returned capture samples per trigger",
+      "detail": "#455",
+      "url": "https://github.com/amachino/qubex/pull/455"
     }
   ]
 }
