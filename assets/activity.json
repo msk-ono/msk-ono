@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-05T20:03:40Z",
+  "updated_at": "2026-11-06T06:57:26Z",
   "period": {
-    "from": "2026-10-06T20:03:40Z",
-    "to": "2026-11-05T20:03:40Z"
+    "from": "2026-10-07T06:57:26Z",
+    "to": "2026-11-06T06:57:26Z"
   },
   "counts": {
-    "commits": 25,
-    "prs": 29,
+    "commits": 21,
+    "prs": 25,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-06T04:35:52Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "refactor(experiment): delegate CW frequency sweep planning to backends",
+      "detail": "#460",
+      "url": "https://github.com/amachino/qubex/pull/460"
+    },
     {
       "date": "2026-11-05T05:42:54Z",
       "kind": "Pushed",
@@ -28,28 +36,20 @@
       "url": "https://github.com/amachino/qubex/pull/458"
     },
     {
+      "date": "2026-11-05T04:59:23Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "feat(quel3): limit returned capture samples per trigger (#455)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/ff3826b4cf28ec9a75a10bd9a6716f73f4474633"
+    },
+    {
       "date": "2026-11-05T04:56:17Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
       "title": "feat(quel3): limit returned capture samples per trigger",
       "detail": "#455",
       "url": "https://github.com/amachino/qubex/pull/455"
-    },
-    {
-      "date": "2026-11-05T04:29:10Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "test(quel3): cover split session failures and cancellation",
-      "detail": "feature/quel3-repeat-split-triggers",
-      "url": "https://github.com/amachino/qubex/commit/ea824467d408f8511e58b5d7dc0dcc613bab01dc"
-    },
-    {
-      "date": "2026-11-05T03:56:39Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): reuse sessions for uniform split triggers",
-      "detail": "#456",
-      "url": "https://github.com/amachino/qubex/pull/456"
     }
   ]
 }

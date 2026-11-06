@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 25 commits, 29 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 21 commits, 25 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
+- `Nov 06` **Opened** [refactor\(experiment\): delegate CW frequency sweep planning to backends](https://github.com/amachino/qubex/pull/460) — amachino/qubex · \#460
 - `Nov 05` **Pushed** [feat: add continuous\-time GEF relaxation characterization \(\#457\)](https://github.com/msk-ono/qubex/commit/e3eac68c97ef76ff30f2afea49851ee0614dd800) — msk\-ono/qubex · develop
 - `Nov 05` **Opened** [feat\(quel3\): compress long constant\-envelope waveforms](https://github.com/amachino/qubex/pull/458) — amachino/qubex · \#458
+- `Nov 05` **Pushed** [feat\(quel3\): limit returned capture samples per trigger \(\#455\)](https://github.com/msk-ono/qubex/commit/ff3826b4cf28ec9a75a10bd9a6716f73f4474633) — msk\-ono/qubex · develop
 - `Nov 05` **Merged** [feat\(quel3\): limit returned capture samples per trigger](https://github.com/amachino/qubex/pull/455) — amachino/qubex · \#455
-- `Nov 05` **Pushed** [test\(quel3\): cover split session failures and cancellation](https://github.com/amachino/qubex/commit/ea824467d408f8511e58b5d7dc0dcc613bab01dc) — amachino/qubex · feature/quel3\-repeat\-split\-triggers
-- `Nov 05` **Opened** [feat\(quel3\): reuse sessions for uniform split triggers](https://github.com/amachino/qubex/pull/456) — amachino/qubex · \#456
 
-<sub>Public activity · Last 30 days · Updated 2026-11-05 20:03 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-06 06:57 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
