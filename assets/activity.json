@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-07T13:14:17Z",
+  "updated_at": "2026-11-07T21:57:34Z",
   "period": {
-    "from": "2026-10-08T13:14:17Z",
-    "to": "2026-11-07T13:14:17Z"
+    "from": "2026-10-08T21:57:34Z",
+    "to": "2026-11-07T21:57:34Z"
   },
   "counts": {
     "commits": 21,
@@ -18,6 +18,14 @@
       "title": "docs: describe frequency sweep planning and configuration scopes",
       "detail": "feature/backend-frequency-sweeps",
       "url": "https://github.com/msk-ono/qubex/commit/d6ffb57a78c65191dc9c4c049340a471cc879391"
+    },
+    {
+      "date": "2026-11-06T04:48:17Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "docs: explain sweep planning ownership and configuration scopes",
+      "detail": "feature/backend-frequency-sweeps",
+      "url": "https://github.com/msk-ono/qubex/commit/44205c95ea709e6e2b9cffe0c6e264b8c807859e"
     },
     {
       "date": "2026-11-06T04:36:46Z",
@@ -36,20 +44,12 @@
       "url": "https://github.com/amachino/qubex/pull/460"
     },
     {
-      "date": "2026-11-05T05:42:54Z",
+      "date": "2026-11-06T03:35:34Z",
       "kind": "Pushed",
       "repo": "msk-ono/qubex",
-      "title": "feat: add continuous-time GEF relaxation characterization (#457)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/e3eac68c97ef76ff30f2afea49851ee0614dd800"
-    },
-    {
-      "date": "2026-11-05T05:36:22Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): compress long constant-envelope waveforms",
-      "detail": "#458",
-      "url": "https://github.com/amachino/qubex/pull/458"
+      "title": "fix(experiment): synchronize target carriers during frequency scans",
+      "detail": "feature/backend-frequency-sweeps",
+      "url": "https://github.com/msk-ono/qubex/commit/166e3fe5864038daff91b3181b1ed9e4b8cb8bc7"
     }
   ]
 }
