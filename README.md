@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Nov 05` **Pushed** [feat: add continuous\-time GEF relaxation characterization \(\#457\)](https://github.com/msk-ono/qubex/commit/e3eac68c97ef76ff30f2afea49851ee0614dd800) — msk\-ono/qubex · develop
 - `Nov 05` **Opened** [feat\(quel3\): compress long constant\-envelope waveforms](https://github.com/amachino/qubex/pull/458) — amachino/qubex · \#458
 
-<sub>Public activity · Last 30 days · Updated 2026-11-07 06:09 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-07 13:14 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
