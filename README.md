@@ -16,7 +16,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 21 commits, 25 pull requests, 0 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 19 commits, 23 pull requests, 0 reviews" width="1200">
 </picture>
 
 **Recent activity**
@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Nov 06` **Opened** [refactor\(experiment\): delegate CW frequency sweep planning to backends](https://github.com/amachino/qubex/pull/460) — amachino/qubex · \#460
 - `Nov 06` **Pushed** [fix\(experiment\): synchronize target carriers during frequency scans](https://github.com/msk-ono/qubex/commit/166e3fe5864038daff91b3181b1ed9e4b8cb8bc7) — msk\-ono/qubex · feature/backend\-frequency\-sweeps
 
-<sub>Public activity · Last 30 days · Updated 2026-11-07 21:57 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-08 06:14 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
