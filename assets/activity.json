@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-08T22:14:28Z",
+  "updated_at": "2026-11-09T06:48:04Z",
   "period": {
-    "from": "2026-10-09T22:14:28Z",
-    "to": "2026-11-08T22:14:28Z"
+    "from": "2026-10-10T06:48:04Z",
+    "to": "2026-11-09T06:48:04Z"
   },
   "counts": {
-    "commits": 19,
-    "prs": 23,
-    "reviews": 0
+    "commits": 18,
+    "prs": 21,
+    "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-09T04:47:27Z",
+      "kind": "Reviewed",
+      "repo": "amachino/qubex",
+      "title": "fix: align QuEL-1 captures and route delay by explicit placement",
+      "detail": "#414",
+      "url": "https://github.com/amachino/qubex/pull/414#pullrequestreview-5731980591"
+    },
     {
       "date": "2026-11-06T08:33:06Z",
       "kind": "Pushed",
@@ -42,14 +50,6 @@
       "title": "refactor(experiment): delegate CW frequency sweep planning to backends",
       "detail": "#460",
       "url": "https://github.com/amachino/qubex/pull/460"
-    },
-    {
-      "date": "2026-11-06T03:35:34Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix(experiment): synchronize target carriers during frequency scans",
-      "detail": "feature/backend-frequency-sweeps",
-      "url": "https://github.com/msk-ono/qubex/commit/166e3fe5864038daff91b3181b1ed9e4b8cb8bc7"
     }
   ]
 }
