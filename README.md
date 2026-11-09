@@ -21,13 +21,13 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 
 **Recent activity**
 
+- `Nov 09` **Pushed** [feat\(quel3\): use fixed frequency sweep widths](https://github.com/msk-ono/qubex/commit/8856da8b77b3f684bb129c9a6bfaedd4d50e84af) — msk\-ono/qubex · feature/backend\-frequency\-sweeps
+- `Nov 09` **Pushed** [docs\(release\): describe scoped frequency configuration APIs](https://github.com/msk-ono/qubex/commit/88af5183cda1a076e0a51fdaba4e2cc214d3ead2) — msk\-ono/qubex · feature/backend\-frequency\-sweeps
+- `Nov 09` **Pushed** [docs\(release\): describe scoped frequency configuration APIs](https://github.com/msk-ono/qubex/commit/e6dfcd11e12316e99ee2142fcccc2f6e821c01a3) — msk\-ono/qubex · feature/backend\-frequency\-sweeps
 - `Nov 09` **Reviewed** [fix: align QuEL\-1 captures and route delay by explicit placement](https://github.com/amachino/qubex/pull/414#pullrequestreview-5731980591) — amachino/qubex · \#414
-- `Nov 06` **Pushed** [docs: describe frequency sweep planning and configuration scopes](https://github.com/msk-ono/qubex/commit/d6ffb57a78c65191dc9c4c049340a471cc879391) — msk\-ono/qubex · feature/backend\-frequency\-sweeps
-- `Nov 06` **Pushed** [docs: explain sweep planning ownership and configuration scopes](https://github.com/msk-ono/qubex/commit/44205c95ea709e6e2b9cffe0c6e264b8c807859e) — msk\-ono/qubex · feature/backend\-frequency\-sweeps
-- `Nov 06` **Pushed** [fix: refine spectroscopy plots and input validation \(\#459\)](https://github.com/msk-ono/qubex/commit/3f7ea416605e72febaf4f6ed9d46666bb1c9103c) — msk\-ono/qubex · develop
-- `Nov 06` **Opened** [refactor\(experiment\): delegate CW frequency sweep planning to backends](https://github.com/amachino/qubex/pull/460) — amachino/qubex · \#460
+- `Nov 09` **Pushed** [feat: support multi\-waveform paired interleaved randomized benchmarking \(\#461\)](https://github.com/amachino/qubex/commit/4f8200c38283870a81f166885ba3eaad1edbbb15) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-11-09 06:48 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-09 22:28 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

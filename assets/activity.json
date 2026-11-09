@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-09T06:48:04Z",
+  "updated_at": "2026-11-09T22:28:46Z",
   "period": {
-    "from": "2026-10-10T06:48:04Z",
-    "to": "2026-11-09T06:48:04Z"
+    "from": "2026-10-10T22:28:46Z",
+    "to": "2026-11-09T22:28:46Z"
   },
   "counts": {
     "commits": 18,
@@ -11,6 +11,30 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-09T08:54:04Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "feat(quel3): use fixed frequency sweep widths",
+      "detail": "feature/backend-frequency-sweeps",
+      "url": "https://github.com/msk-ono/qubex/commit/8856da8b77b3f684bb129c9a6bfaedd4d50e84af"
+    },
+    {
+      "date": "2026-11-09T08:44:50Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "docs(release): describe scoped frequency configuration APIs",
+      "detail": "feature/backend-frequency-sweeps",
+      "url": "https://github.com/msk-ono/qubex/commit/88af5183cda1a076e0a51fdaba4e2cc214d3ead2"
+    },
+    {
+      "date": "2026-11-09T08:10:51Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "docs(release): describe scoped frequency configuration APIs",
+      "detail": "feature/backend-frequency-sweeps",
+      "url": "https://github.com/msk-ono/qubex/commit/e6dfcd11e12316e99ee2142fcccc2f6e821c01a3"
+    },
     {
       "date": "2026-11-09T04:47:27Z",
       "kind": "Reviewed",
@@ -20,36 +44,12 @@
       "url": "https://github.com/amachino/qubex/pull/414#pullrequestreview-5731980591"
     },
     {
-      "date": "2026-11-06T08:33:06Z",
+      "date": "2026-11-09T04:21:06Z",
       "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "docs: describe frequency sweep planning and configuration scopes",
-      "detail": "feature/backend-frequency-sweeps",
-      "url": "https://github.com/msk-ono/qubex/commit/d6ffb57a78c65191dc9c4c049340a471cc879391"
-    },
-    {
-      "date": "2026-11-06T04:48:17Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "docs: explain sweep planning ownership and configuration scopes",
-      "detail": "feature/backend-frequency-sweeps",
-      "url": "https://github.com/msk-ono/qubex/commit/44205c95ea709e6e2b9cffe0c6e264b8c807859e"
-    },
-    {
-      "date": "2026-11-06T04:36:46Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix: refine spectroscopy plots and input validation (#459)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/3f7ea416605e72febaf4f6ed9d46666bb1c9103c"
-    },
-    {
-      "date": "2026-11-06T04:35:52Z",
-      "kind": "Opened",
       "repo": "amachino/qubex",
-      "title": "refactor(experiment): delegate CW frequency sweep planning to backends",
-      "detail": "#460",
-      "url": "https://github.com/amachino/qubex/pull/460"
+      "title": "feat: support multi-waveform paired interleaved randomized benchmarking (#461)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/4f8200c38283870a81f166885ba3eaad1edbbb15"
     }
   ]
 }
