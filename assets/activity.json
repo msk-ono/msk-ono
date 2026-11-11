@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-10T19:50:07Z",
+  "updated_at": "2026-11-11T06:39:54Z",
   "period": {
-    "from": "2026-10-11T19:50:07Z",
-    "to": "2026-11-10T19:50:07Z"
+    "from": "2026-10-12T06:39:54Z",
+    "to": "2026-11-11T06:39:54Z"
   },
   "counts": {
     "commits": 19,
-    "prs": 21,
+    "prs": 24,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-11-10T08:32:46Z",
+      "date": "2026-11-11T06:14:34Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(benchmarking): acquire randomized adjacent IRB pairs",
+      "detail": "#464",
+      "url": "https://github.com/amachino/qubex/pull/464"
+    },
+    {
+      "date": "2026-11-11T05:54:44Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(benchmarking)!: share seed matrices between reference and interleaved RB",
+      "detail": "#463",
+      "url": "https://github.com/amachino/qubex/pull/463"
+    },
+    {
+      "date": "2026-11-11T05:28:25Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "refactor(experiment): delegate CW frequency sweep planning to backends",
-      "detail": "#460",
-      "url": "https://github.com/amachino/qubex/pull/460"
+      "title": "feat(quel3): preserve existing instruments during configuration",
+      "detail": "#462",
+      "url": "https://github.com/amachino/qubex/pull/462"
     },
     {
-      "date": "2026-11-10T07:09:31Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix(quel1): handle omitted LO settings in frequency sweeps",
-      "detail": "feature/backend-frequency-sweeps",
-      "url": "https://github.com/msk-ono/qubex/commit/7024dad3fd1cc23cf0f3e9083119cfd3a341e53a"
+      "date": "2026-11-11T05:24:57Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): preserve existing instruments during configuration",
+      "detail": "#462",
+      "url": "https://github.com/amachino/qubex/pull/462"
     },
     {
-      "date": "2026-11-10T02:44:43Z",
+      "date": "2026-11-10T08:32:47Z",
       "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "docs(release): describe scoped frequency configuration APIs",
-      "detail": "feature/backend-frequency-sweeps",
-      "url": "https://github.com/msk-ono/qubex/commit/6ce868a76277fde218b5b6414d66b8b4438d7b84"
-    },
-    {
-      "date": "2026-11-09T08:54:04Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "feat(quel3): use fixed frequency sweep widths",
-      "detail": "feature/backend-frequency-sweeps",
-      "url": "https://github.com/msk-ono/qubex/commit/8856da8b77b3f684bb129c9a6bfaedd4d50e84af"
-    },
-    {
-      "date": "2026-11-09T08:44:50Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "docs(release): describe scoped frequency configuration APIs",
-      "detail": "feature/backend-frequency-sweeps",
-      "url": "https://github.com/msk-ono/qubex/commit/88af5183cda1a076e0a51fdaba4e2cc214d3ead2"
+      "repo": "amachino/qubex",
+      "title": "refactor(experiment): delegate CW frequency sweep planning to backends (#460)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/fd3d05b0e322cf41ae2b9149be6eef71726bd2c2"
     }
   ]
 }
