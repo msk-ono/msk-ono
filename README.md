@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 19 commits, 24 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 20 commits, 25 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
+- `Nov 11` **Merged** [fix\(workflow\): scope configuration deployment to selected targets](https://github.com/oqtopus-team/qdash/pull/1812) — oqtopus\-team/qdash · \#1812
+- `Nov 11` **Opened** [fix\(workflow\): scope configuration deployment to selected targets](https://github.com/oqtopus-team/qdash/pull/1812) — oqtopus\-team/qdash · \#1812
 - `Nov 11` **Opened** [feat\(benchmarking\): acquire randomized adjacent IRB pairs](https://github.com/amachino/qubex/pull/464) — amachino/qubex · \#464
 - `Nov 11` **Opened** [feat\(benchmarking\)\!: share seed matrices between reference and interleaved RB](https://github.com/amachino/qubex/pull/463) — amachino/qubex · \#463
 - `Nov 11` **Merged** [feat\(quel3\): preserve existing instruments during configuration](https://github.com/amachino/qubex/pull/462) — amachino/qubex · \#462
-- `Nov 11` **Opened** [feat\(quel3\): preserve existing instruments during configuration](https://github.com/amachino/qubex/pull/462) — amachino/qubex · \#462
-- `Nov 10` **Pushed** [refactor\(experiment\): delegate CW frequency sweep planning to backends \(\#460\)](https://github.com/amachino/qubex/commit/fd3d05b0e322cf41ae2b9149be6eef71726bd2c2) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-11-11 06:39 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-11 19:41 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

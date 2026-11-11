@@ -1,16 +1,32 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-11T06:39:54Z",
+  "updated_at": "2026-11-11T19:41:29Z",
   "period": {
-    "from": "2026-10-12T06:39:54Z",
-    "to": "2026-11-11T06:39:54Z"
+    "from": "2026-10-12T19:41:29Z",
+    "to": "2026-11-11T19:41:29Z"
   },
   "counts": {
-    "commits": 19,
-    "prs": 24,
+    "commits": 20,
+    "prs": 25,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-11T07:05:33Z",
+      "kind": "Merged",
+      "repo": "oqtopus-team/qdash",
+      "title": "fix(workflow): scope configuration deployment to selected targets",
+      "detail": "#1812",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1812"
+    },
+    {
+      "date": "2026-11-11T06:51:32Z",
+      "kind": "Opened",
+      "repo": "oqtopus-team/qdash",
+      "title": "fix(workflow): scope configuration deployment to selected targets",
+      "detail": "#1812",
+      "url": "https://github.com/oqtopus-team/qdash/pull/1812"
+    },
     {
       "date": "2026-11-11T06:14:34Z",
       "kind": "Opened",
@@ -34,22 +50,6 @@
       "title": "feat(quel3): preserve existing instruments during configuration",
       "detail": "#462",
       "url": "https://github.com/amachino/qubex/pull/462"
-    },
-    {
-      "date": "2026-11-11T05:24:57Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): preserve existing instruments during configuration",
-      "detail": "#462",
-      "url": "https://github.com/amachino/qubex/pull/462"
-    },
-    {
-      "date": "2026-11-10T08:32:47Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "refactor(experiment): delegate CW frequency sweep planning to backends (#460)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/fd3d05b0e322cf41ae2b9149be6eef71726bd2c2"
     }
   ]
 }
