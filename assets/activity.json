@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-12T07:21:45Z",
+  "updated_at": "2026-11-12T20:03:39Z",
   "period": {
-    "from": "2026-10-13T07:21:45Z",
-    "to": "2026-11-12T07:21:45Z"
+    "from": "2026-10-13T20:03:39Z",
+    "to": "2026-11-12T20:03:39Z"
   },
   "counts": {
-    "commits": 22,
-    "prs": 27,
+    "commits": 23,
+    "prs": 28,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-11-12T05:18:39Z",
-      "kind": "Merged",
-      "repo": "oqtopus-team/device-gateway",
-      "title": "feat(qubex): configure QuEL-3 PAT provider from plugin config",
-      "detail": "#99",
-      "url": "https://github.com/oqtopus-team/device-gateway/pull/99"
-    },
-    {
-      "date": "2026-11-12T03:54:27Z",
-      "kind": "Opened",
-      "repo": "oqtopus-team/device-gateway",
-      "title": "feat(qubex): configure QuEL-3 PAT provider from plugin config",
-      "detail": "#99",
-      "url": "https://github.com/oqtopus-team/device-gateway/pull/99"
-    },
-    {
-      "date": "2026-11-12T03:45:12Z",
+      "date": "2026-11-12T12:15:44Z",
       "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): support shared PAT credentials and providers (#465)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/864b68afd41b565227527231f9d17105547a7056"
+      "repo": "msk-ono/qubex",
+      "title": "test(quel3): cover split session failures and cancellation",
+      "detail": "feature/quel3-repeat-split-triggers",
+      "url": "https://github.com/msk-ono/qubex/commit/aec67360874030fe1c31277d1ee4edaa39d34bbc"
     },
     {
-      "date": "2026-11-12T03:45:11Z",
+      "date": "2026-11-12T08:40:52Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "feat(quel3): support shared PAT credentials and providers",
-      "detail": "#465",
-      "url": "https://github.com/amachino/qubex/pull/465"
+      "title": "fix: add explicit final-capture control to single-shot batches",
+      "detail": "#467",
+      "url": "https://github.com/amachino/qubex/pull/467"
     },
     {
-      "date": "2026-11-12T03:42:49Z",
+      "date": "2026-11-12T08:28:42Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "fix: add explicit final-capture control to single-shot batches",
+      "detail": "fix/mist-final-capture",
+      "url": "https://github.com/msk-ono/qubex/commit/a0764753998c6ebb0b2cf912b12491f6b3484ac6"
+    },
+    {
+      "date": "2026-11-12T08:13:00Z",
       "kind": "Opened",
       "repo": "amachino/qubex",
-      "title": "feat(quel3): support shared PAT credentials and providers",
-      "detail": "#465",
-      "url": "https://github.com/amachino/qubex/pull/465"
+      "title": "fix: add explicit final-capture control to single-shot batches",
+      "detail": "#467",
+      "url": "https://github.com/amachino/qubex/pull/467"
+    },
+    {
+      "date": "2026-11-12T06:39:55Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "test(quel3): cover split session failures and cancellation",
+      "detail": "feature/quel3-repeat-split-triggers",
+      "url": "https://github.com/msk-ono/qubex/commit/62a9121e3d5ea13c7640dc0644c58f2ef45d37c3"
     }
   ]
 }
