@@ -1,55 +1,55 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-11T19:41:29Z",
+  "updated_at": "2026-11-12T07:21:45Z",
   "period": {
-    "from": "2026-10-12T19:41:29Z",
-    "to": "2026-11-11T19:41:29Z"
+    "from": "2026-10-13T07:21:45Z",
+    "to": "2026-11-12T07:21:45Z"
   },
   "counts": {
-    "commits": 20,
-    "prs": 25,
+    "commits": 22,
+    "prs": 27,
     "reviews": 1
   },
   "activity": [
     {
-      "date": "2026-11-11T07:05:33Z",
+      "date": "2026-11-12T05:18:39Z",
       "kind": "Merged",
-      "repo": "oqtopus-team/qdash",
-      "title": "fix(workflow): scope configuration deployment to selected targets",
-      "detail": "#1812",
-      "url": "https://github.com/oqtopus-team/qdash/pull/1812"
+      "repo": "oqtopus-team/device-gateway",
+      "title": "feat(qubex): configure QuEL-3 PAT provider from plugin config",
+      "detail": "#99",
+      "url": "https://github.com/oqtopus-team/device-gateway/pull/99"
     },
     {
-      "date": "2026-11-11T06:51:32Z",
+      "date": "2026-11-12T03:54:27Z",
       "kind": "Opened",
-      "repo": "oqtopus-team/qdash",
-      "title": "fix(workflow): scope configuration deployment to selected targets",
-      "detail": "#1812",
-      "url": "https://github.com/oqtopus-team/qdash/pull/1812"
+      "repo": "oqtopus-team/device-gateway",
+      "title": "feat(qubex): configure QuEL-3 PAT provider from plugin config",
+      "detail": "#99",
+      "url": "https://github.com/oqtopus-team/device-gateway/pull/99"
     },
     {
-      "date": "2026-11-11T06:14:34Z",
-      "kind": "Opened",
+      "date": "2026-11-12T03:45:12Z",
+      "kind": "Pushed",
       "repo": "amachino/qubex",
-      "title": "feat(benchmarking): acquire randomized adjacent IRB pairs",
-      "detail": "#464",
-      "url": "https://github.com/amachino/qubex/pull/464"
+      "title": "feat(quel3): support shared PAT credentials and providers (#465)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/864b68afd41b565227527231f9d17105547a7056"
     },
     {
-      "date": "2026-11-11T05:54:44Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "feat(benchmarking)!: share seed matrices between reference and interleaved RB",
-      "detail": "#463",
-      "url": "https://github.com/amachino/qubex/pull/463"
-    },
-    {
-      "date": "2026-11-11T05:28:25Z",
+      "date": "2026-11-12T03:45:11Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
-      "title": "feat(quel3): preserve existing instruments during configuration",
-      "detail": "#462",
-      "url": "https://github.com/amachino/qubex/pull/462"
+      "title": "feat(quel3): support shared PAT credentials and providers",
+      "detail": "#465",
+      "url": "https://github.com/amachino/qubex/pull/465"
+    },
+    {
+      "date": "2026-11-12T03:42:49Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): support shared PAT credentials and providers",
+      "detail": "#465",
+      "url": "https://github.com/amachino/qubex/pull/465"
     }
   ]
 }
