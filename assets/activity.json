@@ -1,16 +1,40 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-12T20:03:39Z",
+  "updated_at": "2026-11-13T06:54:24Z",
   "period": {
-    "from": "2026-10-13T20:03:39Z",
-    "to": "2026-11-12T20:03:39Z"
+    "from": "2026-10-14T06:54:24Z",
+    "to": "2026-11-13T06:54:24Z"
   },
   "counts": {
     "commits": 23,
-    "prs": 28,
+    "prs": 29,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-13T01:09:11Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): reuse sessions for uniform split triggers",
+      "detail": "#468",
+      "url": "https://github.com/amachino/qubex/pull/468"
+    },
+    {
+      "date": "2026-11-13T01:07:17Z",
+      "kind": "Closed",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): reuse sessions for uniform split triggers",
+      "detail": "#456",
+      "url": "https://github.com/amachino/qubex/pull/456"
+    },
+    {
+      "date": "2026-11-12T14:09:36Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "refactor(quel3): simplify prepared session execution",
+      "detail": "feature/quel3-repeat-split-triggers",
+      "url": "https://github.com/msk-ono/qubex/commit/0bb04f70549197c0bf61b8e908e97b2e8aa14f33"
+    },
     {
       "date": "2026-11-12T12:15:44Z",
       "kind": "Pushed",
@@ -26,30 +50,6 @@
       "title": "fix: add explicit final-capture control to single-shot batches",
       "detail": "#467",
       "url": "https://github.com/amachino/qubex/pull/467"
-    },
-    {
-      "date": "2026-11-12T08:28:42Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix: add explicit final-capture control to single-shot batches",
-      "detail": "fix/mist-final-capture",
-      "url": "https://github.com/msk-ono/qubex/commit/a0764753998c6ebb0b2cf912b12491f6b3484ac6"
-    },
-    {
-      "date": "2026-11-12T08:13:00Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "fix: add explicit final-capture control to single-shot batches",
-      "detail": "#467",
-      "url": "https://github.com/amachino/qubex/pull/467"
-    },
-    {
-      "date": "2026-11-12T06:39:55Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "test(quel3): cover split session failures and cancellation",
-      "detail": "feature/quel3-repeat-split-triggers",
-      "url": "https://github.com/msk-ono/qubex/commit/62a9121e3d5ea13c7640dc0644c58f2ef45d37c3"
     }
   ]
 }
