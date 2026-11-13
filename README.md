@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Nov 12` **Pushed** [test\(quel3\): cover split session failures and cancellation](https://github.com/msk-ono/qubex/commit/aec67360874030fe1c31277d1ee4edaa39d34bbc) — msk\-ono/qubex · feature/quel3\-repeat\-split\-triggers
 - `Nov 12` **Merged** [fix: add explicit final\-capture control to single\-shot batches](https://github.com/amachino/qubex/pull/467) — amachino/qubex · \#467
 
-<sub>Public activity · Last 30 days · Updated 2026-11-13 06:54 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-13 19:49 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
