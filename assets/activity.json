@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-14T06:39:09Z",
+  "updated_at": "2026-11-14T18:14:41Z",
   "period": {
-    "from": "2026-10-15T06:39:09Z",
-    "to": "2026-11-14T06:39:09Z"
+    "from": "2026-10-15T18:14:41Z",
+    "to": "2026-11-14T18:14:41Z"
   },
   "counts": {
     "commits": 23,
@@ -44,12 +44,12 @@
       "url": "https://github.com/msk-ono/qubex/commit/aec67360874030fe1c31277d1ee4edaa39d34bbc"
     },
     {
-      "date": "2026-11-12T08:40:52Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix: add explicit final-capture control to single-shot batches",
-      "detail": "#467",
-      "url": "https://github.com/amachino/qubex/pull/467"
+      "date": "2026-11-12T12:00:01Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "fix: add explicit final-capture control to single-shot batches (#467)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/94d520b11ef440671a6b5fe7a375950b89dd2017"
     }
   ]
 }
