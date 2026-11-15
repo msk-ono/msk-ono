@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-15T06:44:53Z",
+  "updated_at": "2026-11-15T18:56:30Z",
   "period": {
-    "from": "2026-10-16T06:44:53Z",
-    "to": "2026-11-15T06:44:53Z"
+    "from": "2026-10-16T18:56:30Z",
+    "to": "2026-11-15T18:56:30Z"
   },
   "counts": {
     "commits": 21,
@@ -11,6 +11,22 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-13T08:25:54Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "refactor(quel3): simplify compression and enforce minimum fragment lengths",
+      "detail": "feature/quel3-waveform-compression",
+      "url": "https://github.com/msk-ono/qubex/commit/096ece04ea13e5c14cd3fd76d4ff98a2a70277df"
+    },
+    {
+      "date": "2026-11-13T06:51:39Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "test(quel3): cover compression settings and complex waveform equivalence",
+      "detail": "feature/quel3-waveform-compression",
+      "url": "https://github.com/msk-ono/qubex/commit/e1299345bd2bdeb943981f57302634f01f5a6d21"
+    },
     {
       "date": "2026-11-13T01:09:11Z",
       "kind": "Opened",
@@ -34,22 +50,6 @@
       "title": "refactor(quel3): simplify prepared session execution",
       "detail": "feature/quel3-repeat-split-triggers",
       "url": "https://github.com/msk-ono/qubex/commit/0bb04f70549197c0bf61b8e908e97b2e8aa14f33"
-    },
-    {
-      "date": "2026-11-12T12:15:44Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "test(quel3): cover split session failures and cancellation",
-      "detail": "feature/quel3-repeat-split-triggers",
-      "url": "https://github.com/msk-ono/qubex/commit/aec67360874030fe1c31277d1ee4edaa39d34bbc"
-    },
-    {
-      "date": "2026-11-12T12:00:01Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix: add explicit final-capture control to single-shot batches (#467)",
-      "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/94d520b11ef440671a6b5fe7a375950b89dd2017"
     }
   ]
 }

@@ -21,13 +21,13 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 
 **Recent activity**
 
+- `Nov 13` **Pushed** [refactor\(quel3\): simplify compression and enforce minimum fragment lengths](https://github.com/msk-ono/qubex/commit/096ece04ea13e5c14cd3fd76d4ff98a2a70277df) — msk\-ono/qubex · feature/quel3\-waveform\-compression
+- `Nov 13` **Pushed** [test\(quel3\): cover compression settings and complex waveform equivalence](https://github.com/msk-ono/qubex/commit/e1299345bd2bdeb943981f57302634f01f5a6d21) — msk\-ono/qubex · feature/quel3\-waveform\-compression
 - `Nov 13` **Opened** [feat\(quel3\): reuse sessions for uniform split triggers](https://github.com/amachino/qubex/pull/468) — amachino/qubex · \#468
 - `Nov 13` **Closed** [feat\(quel3\): reuse sessions for uniform split triggers](https://github.com/amachino/qubex/pull/456) — amachino/qubex · \#456
 - `Nov 12` **Pushed** [refactor\(quel3\): simplify prepared session execution](https://github.com/msk-ono/qubex/commit/0bb04f70549197c0bf61b8e908e97b2e8aa14f33) — msk\-ono/qubex · feature/quel3\-repeat\-split\-triggers
-- `Nov 12` **Pushed** [test\(quel3\): cover split session failures and cancellation](https://github.com/msk-ono/qubex/commit/aec67360874030fe1c31277d1ee4edaa39d34bbc) — msk\-ono/qubex · feature/quel3\-repeat\-split\-triggers
-- `Nov 12` **Pushed** [fix: add explicit final\-capture control to single\-shot batches \(\#467\)](https://github.com/msk-ono/qubex/commit/94d520b11ef440671a6b5fe7a375950b89dd2017) — msk\-ono/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-11-15 06:44 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-15 18:56 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
