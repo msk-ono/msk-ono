@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-15T18:56:30Z",
+  "updated_at": "2026-11-16T06:43:47Z",
   "period": {
-    "from": "2026-10-16T18:56:30Z",
-    "to": "2026-11-15T18:56:30Z"
+    "from": "2026-10-17T06:43:47Z",
+    "to": "2026-11-16T06:43:47Z"
   },
   "counts": {
-    "commits": 21,
-    "prs": 26,
+    "commits": 19,
+    "prs": 25,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-16T04:18:41Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "docs(benchmarking): explain the seed matrix migration",
+      "detail": "feature/rb-seed-matrices",
+      "url": "https://github.com/amachino/qubex/commit/48e0e3dbb1cdb6c134d14e3066f673445eaf99e7"
+    },
     {
       "date": "2026-11-13T08:25:54Z",
       "kind": "Pushed",
@@ -42,14 +50,6 @@
       "title": "feat(quel3): reuse sessions for uniform split triggers",
       "detail": "#456",
       "url": "https://github.com/amachino/qubex/pull/456"
-    },
-    {
-      "date": "2026-11-12T14:09:36Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "refactor(quel3): simplify prepared session execution",
-      "detail": "feature/quel3-repeat-split-triggers",
-      "url": "https://github.com/msk-ono/qubex/commit/0bb04f70549197c0bf61b8e908e97b2e8aa14f33"
     }
   ]
 }
