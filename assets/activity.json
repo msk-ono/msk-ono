@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-17T08:03:32Z",
+  "updated_at": "2026-11-17T21:01:43Z",
   "period": {
-    "from": "2026-10-18T08:03:32Z",
-    "to": "2026-11-17T08:03:32Z"
+    "from": "2026-10-18T21:01:43Z",
+    "to": "2026-11-17T21:01:43Z"
   },
   "counts": {
     "commits": 20,
@@ -11,6 +11,14 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-17T08:09:51Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "docs(benchmarking): explain paired acquisition and grouped opt-out",
+      "detail": "feature/paired-irb-acquisition",
+      "url": "https://github.com/amachino/qubex/commit/2db8e00bb2c65ebb4ea071a7260c35666850e3f8"
+    },
     {
       "date": "2026-11-17T07:51:22Z",
       "kind": "Merged",
@@ -42,14 +50,6 @@
       "title": "test(quel3): cover compression settings and complex waveform equivalence",
       "detail": "feature/quel3-waveform-compression",
       "url": "https://github.com/msk-ono/qubex/commit/e1299345bd2bdeb943981f57302634f01f5a6d21"
-    },
-    {
-      "date": "2026-11-13T01:09:11Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): reuse sessions for uniform split triggers",
-      "detail": "#468",
-      "url": "https://github.com/amachino/qubex/pull/468"
     }
   ]
 }

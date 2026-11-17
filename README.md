@@ -21,13 +21,13 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 
 **Recent activity**
 
+- `Nov 17` **Pushed** [docs\(benchmarking\): explain paired acquisition and grouped opt\-out](https://github.com/amachino/qubex/commit/2db8e00bb2c65ebb4ea071a7260c35666850e3f8) — amachino/qubex · feature/paired\-irb\-acquisition
 - `Nov 17` **Merged** [feat\(benchmarking\)\!: share seed matrices between reference and interleaved RB](https://github.com/amachino/qubex/pull/463) — amachino/qubex · \#463
 - `Nov 16` **Pushed** [docs\(benchmarking\): explain the seed matrix migration](https://github.com/amachino/qubex/commit/48e0e3dbb1cdb6c134d14e3066f673445eaf99e7) — amachino/qubex · feature/rb\-seed\-matrices
 - `Nov 13` **Pushed** [refactor\(quel3\): simplify compression and enforce minimum fragment lengths](https://github.com/msk-ono/qubex/commit/096ece04ea13e5c14cd3fd76d4ff98a2a70277df) — msk\-ono/qubex · feature/quel3\-waveform\-compression
 - `Nov 13` **Pushed** [test\(quel3\): cover compression settings and complex waveform equivalence](https://github.com/msk-ono/qubex/commit/e1299345bd2bdeb943981f57302634f01f5a6d21) — msk\-ono/qubex · feature/quel3\-waveform\-compression
-- `Nov 13` **Opened** [feat\(quel3\): reuse sessions for uniform split triggers](https://github.com/amachino/qubex/pull/468) — amachino/qubex · \#468
 
-<sub>Public activity · Last 30 days · Updated 2026-11-17 08:03 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-17 21:01 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
