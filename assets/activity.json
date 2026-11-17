@@ -1,16 +1,24 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-16T22:15:42Z",
+  "updated_at": "2026-11-17T08:03:32Z",
   "period": {
-    "from": "2026-10-17T22:15:42Z",
-    "to": "2026-11-16T22:15:42Z"
+    "from": "2026-10-18T08:03:32Z",
+    "to": "2026-11-17T08:03:32Z"
   },
   "counts": {
-    "commits": 19,
+    "commits": 20,
     "prs": 25,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-17T07:51:22Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "feat(benchmarking)!: share seed matrices between reference and interleaved RB",
+      "detail": "#463",
+      "url": "https://github.com/amachino/qubex/pull/463"
+    },
     {
       "date": "2026-11-16T04:18:41Z",
       "kind": "Pushed",
@@ -42,14 +50,6 @@
       "title": "feat(quel3): reuse sessions for uniform split triggers",
       "detail": "#468",
       "url": "https://github.com/amachino/qubex/pull/468"
-    },
-    {
-      "date": "2026-11-13T01:07:17Z",
-      "kind": "Closed",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): reuse sessions for uniform split triggers",
-      "detail": "#456",
-      "url": "https://github.com/amachino/qubex/pull/456"
     }
   ]
 }
