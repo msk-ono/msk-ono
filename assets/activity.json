@@ -1,16 +1,32 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-17T21:01:43Z",
+  "updated_at": "2026-11-18T07:39:50Z",
   "period": {
-    "from": "2026-10-18T21:01:43Z",
-    "to": "2026-11-17T21:01:43Z"
+    "from": "2026-10-19T07:39:50Z",
+    "to": "2026-11-18T07:39:50Z"
   },
   "counts": {
-    "commits": 20,
-    "prs": 25,
+    "commits": 21,
+    "prs": 26,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-18T05:11:41Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): cache requested instruments from port deployment responses",
+      "detail": "#473",
+      "url": "https://github.com/amachino/qubex/pull/473"
+    },
+    {
+      "date": "2026-11-18T03:18:41Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "fix(quel3): cache requested instruments from port deployment responses",
+      "detail": "#473",
+      "url": "https://github.com/amachino/qubex/pull/473"
+    },
     {
       "date": "2026-11-17T08:09:51Z",
       "kind": "Pushed",
@@ -20,36 +36,20 @@
       "url": "https://github.com/amachino/qubex/commit/2db8e00bb2c65ebb4ea071a7260c35666850e3f8"
     },
     {
+      "date": "2026-11-17T07:51:23Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "feat(benchmarking)!: share seed matrices between reference and interleaved RB (#463)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/990bb56d1777668be0c6bcce964d9d6ecb665199"
+    },
+    {
       "date": "2026-11-17T07:51:22Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
       "title": "feat(benchmarking)!: share seed matrices between reference and interleaved RB",
       "detail": "#463",
       "url": "https://github.com/amachino/qubex/pull/463"
-    },
-    {
-      "date": "2026-11-16T04:18:41Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "docs(benchmarking): explain the seed matrix migration",
-      "detail": "feature/rb-seed-matrices",
-      "url": "https://github.com/amachino/qubex/commit/48e0e3dbb1cdb6c134d14e3066f673445eaf99e7"
-    },
-    {
-      "date": "2026-11-13T08:25:54Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "refactor(quel3): simplify compression and enforce minimum fragment lengths",
-      "detail": "feature/quel3-waveform-compression",
-      "url": "https://github.com/msk-ono/qubex/commit/096ece04ea13e5c14cd3fd76d4ff98a2a70277df"
-    },
-    {
-      "date": "2026-11-13T06:51:39Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "test(quel3): cover compression settings and complex waveform equivalence",
-      "detail": "feature/quel3-waveform-compression",
-      "url": "https://github.com/msk-ono/qubex/commit/e1299345bd2bdeb943981f57302634f01f5a6d21"
     }
   ]
 }
