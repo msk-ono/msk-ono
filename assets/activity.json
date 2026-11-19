@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-19T07:35:39Z",
+  "updated_at": "2026-11-19T20:45:47Z",
   "period": {
-    "from": "2026-10-20T07:35:39Z",
-    "to": "2026-11-19T07:35:39Z"
+    "from": "2026-10-20T20:45:47Z",
+    "to": "2026-11-19T20:45:47Z"
   },
   "counts": {
     "commits": 20,
@@ -28,6 +28,14 @@
       "url": "https://github.com/amachino/qubex/pull/468"
     },
     {
+      "date": "2026-11-18T07:26:03Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "fix(quel3): cache requested instruments from port deployment responses (#473)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/b776c23169f48b296307d7f45b740bda896a5b3a"
+    },
+    {
       "date": "2026-11-18T05:11:41Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
@@ -42,14 +50,6 @@
       "title": "fix(quel3): cache requested instruments from port deployment responses",
       "detail": "#473",
       "url": "https://github.com/amachino/qubex/pull/473"
-    },
-    {
-      "date": "2026-11-18T03:13:02Z",
-      "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "docs(quel3): explain target registration cache updates",
-      "detail": "fix/quel3-cache-deployed-instruments",
-      "url": "https://github.com/msk-ono/qubex/commit/f5860000f79b322c3a182310f16baab502d4f164"
     }
   ]
 }

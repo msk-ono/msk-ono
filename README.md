@@ -23,11 +23,11 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 
 - `Nov 19` **Merged** [feat\(quel3\): compress long constant\-envelope waveforms](https://github.com/amachino/qubex/pull/458) — amachino/qubex · \#458
 - `Nov 19` **Merged** [feat\(quel3\): reuse sessions for uniform split triggers](https://github.com/amachino/qubex/pull/468) — amachino/qubex · \#468
+- `Nov 18` **Pushed** [fix\(quel3\): cache requested instruments from port deployment responses \(\#473\)](https://github.com/msk-ono/qubex/commit/b776c23169f48b296307d7f45b740bda896a5b3a) — msk\-ono/qubex · develop
 - `Nov 18` **Merged** [fix\(quel3\): cache requested instruments from port deployment responses](https://github.com/amachino/qubex/pull/473) — amachino/qubex · \#473
 - `Nov 18` **Opened** [fix\(quel3\): cache requested instruments from port deployment responses](https://github.com/amachino/qubex/pull/473) — amachino/qubex · \#473
-- `Nov 18` **Pushed** [docs\(quel3\): explain target registration cache updates](https://github.com/msk-ono/qubex/commit/f5860000f79b322c3a182310f16baab502d4f164) — msk\-ono/qubex · fix/quel3\-cache\-deployed\-instruments
 
-<sub>Public activity · Last 30 days · Updated 2026-11-19 07:35 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-19 20:45 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
