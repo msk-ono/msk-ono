@@ -1,16 +1,32 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-18T20:39:20Z",
+  "updated_at": "2026-11-19T07:35:39Z",
   "period": {
-    "from": "2026-10-19T20:39:20Z",
-    "to": "2026-11-18T20:39:20Z"
+    "from": "2026-10-20T07:35:39Z",
+    "to": "2026-11-19T07:35:39Z"
   },
   "counts": {
-    "commits": 21,
-    "prs": 26,
+    "commits": 20,
+    "prs": 22,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-19T07:14:51Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): compress long constant-envelope waveforms",
+      "detail": "#458",
+      "url": "https://github.com/amachino/qubex/pull/458"
+    },
+    {
+      "date": "2026-11-19T04:42:31Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): reuse sessions for uniform split triggers",
+      "detail": "#468",
+      "url": "https://github.com/amachino/qubex/pull/468"
+    },
     {
       "date": "2026-11-18T05:11:41Z",
       "kind": "Merged",
@@ -28,28 +44,12 @@
       "url": "https://github.com/amachino/qubex/pull/473"
     },
     {
-      "date": "2026-11-17T08:09:51Z",
+      "date": "2026-11-18T03:13:02Z",
       "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "docs(benchmarking): explain paired acquisition and grouped opt-out",
-      "detail": "feature/paired-irb-acquisition",
-      "url": "https://github.com/amachino/qubex/commit/2db8e00bb2c65ebb4ea071a7260c35666850e3f8"
-    },
-    {
-      "date": "2026-11-17T07:51:23Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "feat(benchmarking)!: share seed matrices between reference and interleaved RB (#463)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/990bb56d1777668be0c6bcce964d9d6ecb665199"
-    },
-    {
-      "date": "2026-11-17T07:51:22Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "feat(benchmarking)!: share seed matrices between reference and interleaved RB",
-      "detail": "#463",
-      "url": "https://github.com/amachino/qubex/pull/463"
+      "repo": "msk-ono/qubex",
+      "title": "docs(quel3): explain target registration cache updates",
+      "detail": "fix/quel3-cache-deployed-instruments",
+      "url": "https://github.com/msk-ono/qubex/commit/f5860000f79b322c3a182310f16baab502d4f164"
     }
   ]
 }
