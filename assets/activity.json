@@ -1,16 +1,32 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-19T20:45:47Z",
+  "updated_at": "2026-11-20T07:26:52Z",
   "period": {
-    "from": "2026-10-20T20:45:47Z",
-    "to": "2026-11-19T20:45:47Z"
+    "from": "2026-10-21T07:26:52Z",
+    "to": "2026-11-20T07:26:52Z"
   },
   "counts": {
-    "commits": 20,
-    "prs": 22,
+    "commits": 21,
+    "prs": 23,
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-20T04:03:46Z",
+      "kind": "Merged",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): support quelware-client 0.8 and server-side session acquisition",
+      "detail": "#474",
+      "url": "https://github.com/amachino/qubex/pull/474"
+    },
+    {
+      "date": "2026-11-20T03:57:48Z",
+      "kind": "Opened",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): support quelware-client 0.8 and server-side session acquisition",
+      "detail": "#474",
+      "url": "https://github.com/amachino/qubex/pull/474"
+    },
     {
       "date": "2026-11-19T07:14:51Z",
       "kind": "Merged",
@@ -34,22 +50,6 @@
       "title": "fix(quel3): cache requested instruments from port deployment responses (#473)",
       "detail": "develop",
       "url": "https://github.com/msk-ono/qubex/commit/b776c23169f48b296307d7f45b740bda896a5b3a"
-    },
-    {
-      "date": "2026-11-18T05:11:41Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): cache requested instruments from port deployment responses",
-      "detail": "#473",
-      "url": "https://github.com/amachino/qubex/pull/473"
-    },
-    {
-      "date": "2026-11-18T03:18:41Z",
-      "kind": "Opened",
-      "repo": "amachino/qubex",
-      "title": "fix(quel3): cache requested instruments from port deployment responses",
-      "detail": "#473",
-      "url": "https://github.com/amachino/qubex/pull/473"
     }
   ]
 }
