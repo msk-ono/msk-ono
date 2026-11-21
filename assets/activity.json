@@ -1,13 +1,13 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-20T20:29:21Z",
+  "updated_at": "2026-11-21T07:21:37Z",
   "period": {
-    "from": "2026-10-21T20:29:21Z",
-    "to": "2026-11-20T20:29:21Z"
+    "from": "2026-10-22T07:21:37Z",
+    "to": "2026-11-21T07:21:37Z"
   },
   "counts": {
-    "commits": 21,
-    "prs": 23,
+    "commits": 19,
+    "prs": 21,
     "reviews": 1
   },
   "activity": [
@@ -28,6 +28,14 @@
       "url": "https://github.com/amachino/qubex/pull/474"
     },
     {
+      "date": "2026-11-19T07:14:52Z",
+      "kind": "Pushed",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): compress long constant-envelope waveforms (#458)",
+      "detail": "develop",
+      "url": "https://github.com/amachino/qubex/commit/d1a3afc47c6b074c81fb0f85716a71b54db95c61"
+    },
+    {
       "date": "2026-11-19T07:14:51Z",
       "kind": "Merged",
       "repo": "amachino/qubex",
@@ -36,20 +44,12 @@
       "url": "https://github.com/amachino/qubex/pull/458"
     },
     {
-      "date": "2026-11-19T04:42:31Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): reuse sessions for uniform split triggers",
-      "detail": "#468",
-      "url": "https://github.com/amachino/qubex/pull/468"
-    },
-    {
-      "date": "2026-11-18T07:26:03Z",
+      "date": "2026-11-19T04:42:33Z",
       "kind": "Pushed",
-      "repo": "msk-ono/qubex",
-      "title": "fix(quel3): cache requested instruments from port deployment responses (#473)",
+      "repo": "amachino/qubex",
+      "title": "feat(quel3): reuse sessions for uniform split triggers (#468)",
       "detail": "develop",
-      "url": "https://github.com/msk-ono/qubex/commit/b776c23169f48b296307d7f45b740bda896a5b3a"
+      "url": "https://github.com/amachino/qubex/commit/7cfdb15352a5ff3be5be36a6c98edd3d6a8a63f5"
     }
   ]
 }

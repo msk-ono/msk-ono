@@ -16,18 +16,18 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 21 commits, 23 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 19 commits, 21 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
 
 - `Nov 20` **Merged** [feat\(quel3\): support quelware\-client 0\.8 and server\-side session acquisition](https://github.com/amachino/qubex/pull/474) — amachino/qubex · \#474
 - `Nov 20` **Opened** [feat\(quel3\): support quelware\-client 0\.8 and server\-side session acquisition](https://github.com/amachino/qubex/pull/474) — amachino/qubex · \#474
+- `Nov 19` **Pushed** [feat\(quel3\): compress long constant\-envelope waveforms \(\#458\)](https://github.com/amachino/qubex/commit/d1a3afc47c6b074c81fb0f85716a71b54db95c61) — amachino/qubex · develop
 - `Nov 19` **Merged** [feat\(quel3\): compress long constant\-envelope waveforms](https://github.com/amachino/qubex/pull/458) — amachino/qubex · \#458
-- `Nov 19` **Merged** [feat\(quel3\): reuse sessions for uniform split triggers](https://github.com/amachino/qubex/pull/468) — amachino/qubex · \#468
-- `Nov 18` **Pushed** [fix\(quel3\): cache requested instruments from port deployment responses \(\#473\)](https://github.com/msk-ono/qubex/commit/b776c23169f48b296307d7f45b740bda896a5b3a) — msk\-ono/qubex · develop
+- `Nov 19` **Pushed** [feat\(quel3\): reuse sessions for uniform split triggers \(\#468\)](https://github.com/amachino/qubex/commit/7cfdb15352a5ff3be5be36a6c98edd3d6a8a63f5) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-11-20 20:29 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-21 07:21 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
