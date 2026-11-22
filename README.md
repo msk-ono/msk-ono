@@ -21,13 +21,13 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 
 **Recent activity**
 
+- `Nov 20` **Pushed** [fix\(contrib\): align F0G1 preparation channels before final readout](https://github.com/msk-ono/qubex/commit/9f94f6b8471c3670598cad09c9c703ef75ed21ab) — msk\-ono/qubex · calibrate\-f0g1\-pulse
+- `Nov 20` **Pushed** [feat\(quel3\): support quelware\-client 0\.8 and server\-side session acquisition \(\#474\)](https://github.com/msk-ono/qubex/commit/ba670aadf49b3dd8f644d2db0201d76c7de7c380) — msk\-ono/qubex · develop
 - `Nov 20` **Merged** [feat\(quel3\): support quelware\-client 0\.8 and server\-side session acquisition](https://github.com/amachino/qubex/pull/474) — amachino/qubex · \#474
 - `Nov 20` **Opened** [feat\(quel3\): support quelware\-client 0\.8 and server\-side session acquisition](https://github.com/amachino/qubex/pull/474) — amachino/qubex · \#474
-- `Nov 19` **Pushed** [feat\(quel3\): compress long constant\-envelope waveforms \(\#458\)](https://github.com/amachino/qubex/commit/d1a3afc47c6b074c81fb0f85716a71b54db95c61) — amachino/qubex · develop
-- `Nov 19` **Merged** [feat\(quel3\): compress long constant\-envelope waveforms](https://github.com/amachino/qubex/pull/458) — amachino/qubex · \#458
-- `Nov 19` **Pushed** [feat\(quel3\): reuse sessions for uniform split triggers \(\#468\)](https://github.com/amachino/qubex/commit/7cfdb15352a5ff3be5be36a6c98edd3d6a8a63f5) — amachino/qubex · develop
+- `Nov 20` **Pushed** [Feature/cr dissipation \(\#426\)](https://github.com/amachino/qubex/commit/7fa683b708370bcbd6d90f47fa559e2b9141e5d5) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-11-22 07:01 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-22 19:48 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->

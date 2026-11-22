@@ -1,9 +1,9 @@
 {
   "username": "msk-ono",
-  "updated_at": "2026-11-22T07:01:38Z",
+  "updated_at": "2026-11-22T19:48:33Z",
   "period": {
-    "from": "2026-10-23T07:01:38Z",
-    "to": "2026-11-22T07:01:38Z"
+    "from": "2026-10-23T19:48:33Z",
+    "to": "2026-11-22T19:48:33Z"
   },
   "counts": {
     "commits": 19,
@@ -11,6 +11,22 @@
     "reviews": 1
   },
   "activity": [
+    {
+      "date": "2026-11-20T06:09:13Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "fix(contrib): align F0G1 preparation channels before final readout",
+      "detail": "calibrate-f0g1-pulse",
+      "url": "https://github.com/msk-ono/qubex/commit/9f94f6b8471c3670598cad09c9c703ef75ed21ab"
+    },
+    {
+      "date": "2026-11-20T04:13:48Z",
+      "kind": "Pushed",
+      "repo": "msk-ono/qubex",
+      "title": "feat(quel3): support quelware-client 0.8 and server-side session acquisition (#474)",
+      "detail": "develop",
+      "url": "https://github.com/msk-ono/qubex/commit/ba670aadf49b3dd8f644d2db0201d76c7de7c380"
+    },
     {
       "date": "2026-11-20T04:03:46Z",
       "kind": "Merged",
@@ -28,28 +44,12 @@
       "url": "https://github.com/amachino/qubex/pull/474"
     },
     {
-      "date": "2026-11-19T07:14:52Z",
+      "date": "2026-11-20T01:25:42Z",
       "kind": "Pushed",
       "repo": "amachino/qubex",
-      "title": "feat(quel3): compress long constant-envelope waveforms (#458)",
+      "title": "Feature/cr dissipation (#426)",
       "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/d1a3afc47c6b074c81fb0f85716a71b54db95c61"
-    },
-    {
-      "date": "2026-11-19T07:14:51Z",
-      "kind": "Merged",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): compress long constant-envelope waveforms",
-      "detail": "#458",
-      "url": "https://github.com/amachino/qubex/pull/458"
-    },
-    {
-      "date": "2026-11-19T04:42:33Z",
-      "kind": "Pushed",
-      "repo": "amachino/qubex",
-      "title": "feat(quel3): reuse sessions for uniform split triggers (#468)",
-      "detail": "develop",
-      "url": "https://github.com/amachino/qubex/commit/7cfdb15352a5ff3be5be36a6c98edd3d6a8a63f5"
+      "url": "https://github.com/amachino/qubex/commit/7fa683b708370bcbd6d90f47fa559e2b9141e5d5"
     }
   ]
 }
