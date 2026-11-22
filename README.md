@@ -16,7 +16,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 19 commits, 21 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 19 commits, 20 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Nov 19` **Merged** [feat\(quel3\): compress long constant\-envelope waveforms](https://github.com/amachino/qubex/pull/458) — amachino/qubex · \#458
 - `Nov 19` **Pushed** [feat\(quel3\): reuse sessions for uniform split triggers \(\#468\)](https://github.com/amachino/qubex/commit/7cfdb15352a5ff3be5be36a6c98edd3d6a8a63f5) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-11-21 19:25 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-22 07:01 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
