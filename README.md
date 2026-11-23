@@ -16,7 +16,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/activity-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Last 30 days: 19 commits, 20 pull requests, 1 reviews" width="1200">
+  <img src="assets/activity-light.svg" alt="Last 30 days: 18 commits, 20 pull requests, 1 reviews" width="1200">
 </picture>
 
 **Recent activity**
@@ -27,7 +27,7 @@ Mathematics · GPU Computing · Optimization · Quantum Computing
 - `Nov 20` **Opened** [feat\(quel3\): support quelware\-client 0\.8 and server\-side session acquisition](https://github.com/amachino/qubex/pull/474) — amachino/qubex · \#474
 - `Nov 20` **Pushed** [Feature/cr dissipation \(\#426\)](https://github.com/amachino/qubex/commit/7fa683b708370bcbd6d90f47fa559e2b9141e5d5) — amachino/qubex · develop
 
-<sub>Public activity · Last 30 days · Updated 2026-11-22 19:48 UTC</sub>
+<sub>Public activity · Last 30 days · Updated 2026-11-23 07:50 UTC</sub>
 
 <sub>[About these counts](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)</sub>
 <!-- ACTIVITY:END -->
